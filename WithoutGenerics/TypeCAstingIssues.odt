@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2023-03-14T09:27:48.792435388</dc:date><meta:editing-duration>PT12M</meta:editing-duration><meta:editing-cycles>18</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="31" meta:word-count="569" meta:character-count="3273" meta:non-whitespace-character-count="2716"/></office:meta>
+ <office:meta><dc:date>2023-03-14T10:15:15.404995382</dc:date><meta:editing-duration>PT59M25S</meta:editing-duration><meta:editing-cycles>22</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="40" meta:word-count="772" meta:character-count="4631" meta:non-whitespace-character-count="3876"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">7327</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">92454</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">39123</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">16254</config:config-item>
@@ -14,11 +14,11 @@
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
      <config:config-item config:name="ViewLeft" config:type="long">11061</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">14854</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">102581</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">7327</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">92454</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">39121</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">23580</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">108707</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -301,42 +301,48 @@
    <style:text-properties style:font-name="AnjaliOldLipi" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
-   <style:text-properties style:font-name="AnjaliOldLipi" fo:font-size="16pt" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+   <style:text-properties style:font-name="AnjaliOldLipi" fo:font-size="16pt" officeooo:rsid="00005231" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
    <style:text-properties style:font-name="AnjaliOldLipi" fo:font-size="16pt" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:background-color="#ffff00" loext:char-shading-value="0"/>
+   <style:text-properties style:font-name="AnjaliOldLipi" fo:font-size="16pt" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:background-color="#ffff00" loext:char-shading-value="0"/>
+   <style:text-properties style:font-name="AnjaliOldLipi" fo:font-size="21pt" style:font-size-asian="21pt" style:font-size-complex="21pt"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties fo:color="#c9211e" loext:opacity="100%"/>
+   <style:text-properties fo:background-color="#ffff00" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:color="#c9211e" loext:opacity="100%" officeooo:rsid="00005231"/>
+   <style:text-properties fo:background-color="#ffff00" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:color="#c9211e" loext:opacity="100%" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#c9211e" loext:opacity="100%"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties fo:color="#c9211e" loext:opacity="100%" fo:font-weight="bold" officeooo:rsid="00005231" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#c9211e" loext:opacity="100%" officeooo:rsid="00005231"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties fo:color="#c9211e" loext:opacity="100%" fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#c9211e" loext:opacity="100%" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#c9211e" loext:opacity="100%" fo:font-weight="bold" officeooo:rsid="00005231" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties fo:font-weight="bold" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#c9211e" loext:opacity="100%" fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
-   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:font-weight="bold" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
    <style:text-properties fo:font-size="18pt" fo:font-weight="bold" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:page-layout style:name="pm1">
@@ -359,17 +365,17 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P5"><text:span text:style-name="T11">Q. W</text:span><text:span text:style-name="T10">hy,</text:span> <text:span text:style-name="T9">store.getItem() </text:span><text:span text:style-name="T10">throwing error in the code, </text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T13">Q. W</text:span><text:span text:style-name="T12">hy,</text:span> <text:span text:style-name="T11">store.getItem() </text:span><text:span text:style-name="T12">throwing error in the code, </text:span></text:p>
    <text:p text:style-name="P4"/>
    <text:p text:style-name="P6">StoreForTCRWG store = new StoreForTCRWG(); </text:p>
    <text:p text:style-name="P6">int item = store.getItem(); </text:p>
    <text:p text:style-name="P2"/>
-   <text:p text:style-name="P2"><text:span text:style-name="T14">is giving error getItem returns item of type object but when i do</text:span><text:span text:style-name="T17"> </text:span></text:p>
-   <text:p text:style-name="P2"><text:span text:style-name="T18">System.out.println(store.getItem().getClass());</text:span><text:span text:style-name="T9"> </text:span></text:p>
+   <text:p text:style-name="P2"><text:span text:style-name="T16">is giving error getItem returns item of type object but when i do</text:span><text:span text:style-name="T19"> </text:span></text:p>
+   <text:p text:style-name="P2"><text:span text:style-name="T20">System.out.println(store.getItem().getClass());</text:span><text:span text:style-name="T11"> </text:span></text:p>
    <text:p text:style-name="P2"/>
    <text:p text:style-name="P8"><text:span text:style-name="T2">I</text:span>t clearly says integer and the store class has</text:p>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P4"><text:tab/> <text:span text:style-name="T17">Object item ;</text:span></text:p>
+   <text:p text:style-name="P4"><text:tab/> <text:span text:style-name="T19">Object item ;</text:span></text:p>
    <text:p text:style-name="P6"><text:s/><text:tab/>public Object getItem() {</text:p>
    <text:p text:style-name="P6"><text:s/><text:tab/>return this.item; </text:p>
    <text:p text:style-name="P6"><text:tab/>}</text:p>
@@ -377,7 +383,7 @@
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">Based on the information provided, it is difficult to determine the exact cause of the error. However, one possible reason for the error could be that the return type of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">getItem()</text:span></text:span><text:span text:style-name="T5"> is </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Object</text:span></text:span><text:span text:style-name="T5">, but the code is trying to assign the returned value to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> variable.</text:span></text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">In Java, you cannot assign an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Object</text:span></text:span><text:span text:style-name="T5"> to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> variable directly. You need to cast the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Object</text:span></text:span><text:span text:style-name="T5"> to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> using typecasting. For example:</text:span></text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T7"><text:tab/>int item = (int)store.getItem();</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T8"><text:tab/>int item = (int)store.getItem();</text:span></text:span></text:p>
    <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"/></text:span></text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">Another possible reason could be that the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">item</text:span></text:span><text:span text:style-name="T5"> field in the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">StoreForTCRWG</text:span></text:span><text:span text:style-name="T5"> class is not initialized or null, which could cause a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">NullPointerException</text:span></text:span><text:span text:style-name="T5"> when calling </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">getItem()</text:span></text:span><text:span text:style-name="T5">.</text:span></text:p>
    <text:p text:style-name="P9">It would be helpful to see the full error message and more context of the code to provide a more specific solution.</text:p>
@@ -386,7 +392,7 @@
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">The reason you need to cast the returned value of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">getItem()</text:span></text:span><text:span text:style-name="T5"> to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> is because the method&apos;s return type is declared as </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Object</text:span></text:span><text:span text:style-name="T5">. When you call </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">getItem()</text:span></text:span><text:span text:style-name="T5">, it returns an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Object</text:span></text:span><text:span text:style-name="T5"> reference, even though the actual value is an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5">.</text:span></text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">Since </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Object</text:span></text:span><text:span text:style-name="T5"> is a superclass of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5">, you cannot assign an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Object</text:span></text:span><text:span text:style-name="T5"> reference directly to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> variable. You need to explicitly cast the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Object</text:span></text:span><text:span text:style-name="T5"> reference to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5"> object and then unbox it to get the integer value. This is why you need to use typecasting as follows:</text:span></text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T7">int item = (int)store.getItem();</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T8">int item = (int)store.getItem();</text:span></text:span></text:p>
    <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"/></text:span></text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">getClass()</text:span></text:span><text:span text:style-name="T5"> method returns the runtime class of the object, but it does not change the fact that the return type of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">getItem()</text:span></text:span><text:span text:style-name="T5"> is </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Object</text:span></text:span><text:span text:style-name="T5">. Therefore, you still need to cast it to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> to be able to assign it to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> variable.</text:span></text:p>
    <text:p text:style-name="P3"/>
@@ -395,14 +401,28 @@
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">When you cast an object to </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5">, you are creating a new </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5"> object that contains the same value as the original object. This is called boxing.</text:span></text:p>
    <text:p text:style-name="Text_20_body"><text:soft-page-break/><text:span text:style-name="T5">On the other hand, when you cast an object to </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5">, you are unboxing the object and retrieving its primitive </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> value.</text:span></text:p>
    <text:p text:style-name="P9">For example, consider the following code:</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T7">Object obj = 10;</text:span></text:span></text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T7"><text:tab/>Integer integerObj = (Integer)obj; // boxing</text:span></text:span></text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T7"><text:tab/>int intValue = (int)obj; // unboxing</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T8">Object obj = 10;</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T8"><text:tab/>Integer integerObj = (Integer)obj; // boxing</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T8"><text:tab/>int intValue = (int)obj; // unboxing</text:span></text:span></text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T5"/></text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">In the first line, the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Object</text:span></text:span><text:span text:style-name="T5"> reference </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">obj</text:span></text:span><text:span text:style-name="T5"> is assigned the value </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">10</text:span></text:span><text:span text:style-name="T5">, which is an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> primitive.</text:span></text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">In the second line, we are boxing the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> value by casting the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Object</text:span></text:span><text:span text:style-name="T5"> reference to </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5">. The resulting </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">integerObj</text:span></text:span><text:span text:style-name="T5"> is a new </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5"> object that contains the value </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">10</text:span></text:span><text:span text:style-name="T5">.</text:span></text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">In the third line, we are unboxing the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Object</text:span></text:span><text:span text:style-name="T5"> reference by casting it to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5">. The resulting </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">intValue</text:span></text:span><text:span text:style-name="T5"> is a primitive </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> value that equals </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">10</text:span></text:span><text:span text:style-name="T5">.</text:span></text:p>
    <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">In general, it is more efficient to use primitive </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> types when possible, as they take up less memory and have better performance compared to their corresponding object types. However, in some cases, you may need to use object types such as </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5"> if you need to pass them as arguments to methods that expect object references.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T5"/></text:p>
+   <text:p text:style-name="P7">Q. But StoreForTCWithGenerics &lt;Integer&gt; store = new StoreForTCWithGenerics &lt;&gt;(); , we can use int item = store.getItem(); why ??</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">When you declare the generic type parameter for the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">StoreForTCWithGenerics</text:span></text:span><text:span text:style-name="T5"> class as </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5">, you are specifying that </text:span><text:soft-page-break/><text:span text:style-name="T5">the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">getItem()</text:span></text:span><text:span text:style-name="T5"> method will return an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5"> object. In this case, you can assign the returned value directly to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> variable because of autoboxing, a feature introduced in Java 5 that automatically converts between primitive types and their corresponding object types.</text:span></text:p>
+   <text:p text:style-name="P9">For example, consider the following code:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T8"><text:tab/>StoreForTCWithGenerics&lt;Integer&gt; store = new <text:tab/>StoreForTCWithGenerics&lt;&gt;();</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T8"><text:tab/>store.addItem(10);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T8"><text:tab/>int item = store.getItem();</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"/></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">In this code, the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">StoreForTCWithGenerics</text:span></text:span><text:span text:style-name="T5"> class is declared with a type parameter of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5">, which means that </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">getItem()</text:span></text:span><text:span text:style-name="T5"> returns an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5"> object.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T5">When we call </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">getItem()</text:span></text:span><text:span text:style-name="T5">, the returned </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5"> object is automatically unboxed to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> primitive because of autoboxing. This means that the value of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">Integer</text:span></text:span><text:span text:style-name="T5"> object is converted to a primitive </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> value, which can be assigned to the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">int</text:span></text:span><text:span text:style-name="T5"> variable </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5">item</text:span></text:span><text:span text:style-name="T5">.</text:span></text:p>
+   <text:p text:style-name="P9">Autoboxing and unboxing allow you to use primitive types and their corresponding object types interchangeably, making the code more concise and readable. However, it is important to note that autoboxing and unboxing can add some overhead to the code and should be used judiciously.</text:p>
+   <text:p text:style-name="P9"/>
    <text:p text:style-name="P3"/>
   </office:text>
  </office:body>
