@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:date>2023-03-14T15:35:20.754428137</dc:date><meta:editing-duration>PT1H38M58S</meta:editing-duration><meta:editing-cycles>5</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="12" meta:object-count="0" meta:page-count="6" meta:paragraph-count="117" meta:word-count="2257" meta:character-count="13453" meta:non-whitespace-character-count="11219"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">12079</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">39123</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16254</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">13813</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">20705</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">12079</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">39121</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">28332</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">84</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1258839</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1044433</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans Mono CJK SC" svg:font-family="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:language="zxx" fo:country="none" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Noto Sans Mono CJK SC" style:font-family-asian="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Source_20_Text" style:display-name="Source Text" style:family="text">
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Noto Sans Mono CJK SC" style:font-family-asian="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#c9211e" loext:opacity="100%" fo:font-size="20pt" fo:font-weight="bold" style:font-size-asian="20pt" style:font-weight-asian="bold" style:font-size-complex="20pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:list-style-name="L1"/>
+  <style:style style:name="P3" style:family="paragraph" style:list-style-name="L2"/>
+  <style:style style:name="P4" style:family="paragraph" style:list-style-name="L3"/>
+  <style:style style:name="P5" style:family="paragraph" style:list-style-name="L4"/>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="000fefd1"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:vertical-pos="top" style:vertical-rel="baseline" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.2961in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.7882in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.2807in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.7728in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.2654in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.7579in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.25in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.7425in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.2346in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.7272in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L2">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.2961in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.7882in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.2807in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.7728in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.2654in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.7579in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.25in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.7425in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.2346in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.7272in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L3">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.2961in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.7882in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.2807in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.7728in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.2654in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.7579in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.25in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.7425in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.2346in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.7272in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L4">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.2961in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="0.7882in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.2807in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="1.7728in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.2654in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="2.7579in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.25in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="3.7425in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.2346in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:space-before="4.7272in" text:min-label-width="0.1965in"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P1"><text:span text:style-name="T2">Q. W</text:span>henever we instantiate the object of any class and print that object we invoke toString method automatically right ?? java </text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Yes, that&apos;s correct. In Java, when you print an object, the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">toString()</text:span></text:span><text:span text:style-name="T3"> method of that object is automatically called.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">If you have not provided your own implementation of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">toString()</text:span></text:span><text:span text:style-name="T3"> method in your class, the default implementation inherited from </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Object</text:span></text:span><text:span text:style-name="T3"> class will be used. The default implementation returns a string that includes the class name, the &apos;@&apos; symbol, and the object&apos;s memory address in hexadecimal format.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">However, if you have provided your own implementation of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">toString()</text:span></text:span><text:span text:style-name="T3"> method in your class, that implementation will be called instead, and you can customize the string that is returned to better represent the state of the object.</text:span></text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Text_20_body">Another approach to create a custom <text:span text:style-name="Source_20_Text">toString()</text:span> method based on the fields of a class is to simply return a string that lists the names of the fields and their corresponding values. Here&apos;s an example:</text:p>
+   <text:p text:style-name="Preformatted_20_Text">typescriptCopy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text">public class MyClass {</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/>private int field1;</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/>private String field2;</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/>private boolean field3;</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/>// constructor, getters and setters here...</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/>@Override</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/>public String toString() {</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="8"/>return &quot;MyClass [field1=&quot; + field1 + &quot;, field2=&quot; + field2 + &quot;, field3=&quot; + field3 + &quot;]&quot;;</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/>}</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text">}</text:span></text:p>
+   <text:p text:style-name="Text_20_body">In this example, the <text:span text:style-name="Source_20_Text">toString()</text:span> method returns a string that lists the names of the fields and their corresponding values, separated by commas and enclosed in square brackets.</text:p>
+   <text:p text:style-name="Text_20_body">This approach is simple and easy to implement, but it may not be as flexible as the other approaches. If you need more control over the formatting of the string or if you need to include additional information, such as the class name or the object&apos;s hash code, you may need to use one of the other approaches.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">what is % for double then ?</text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/>2 / 2</text:p>
+   <text:p text:style-name="Text_20_body">For double values in Java, the format specifier used is %f. It is used to format a floating-point number with a decimal point.</text:p>
+   <text:p text:style-name="Text_20_body">For example, if you have a double variable called &quot;num&quot; that stores the value 3.14159, you can use the %f specifier to print its value as a floating-point number:</text:p>
+   <text:p text:style-name="Preformatted_20_Text">cCopy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text">double num = 3.14159;</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text">System.out.printf(&quot;The value of num is: %f&quot;, num);</text:span></text:p>
+   <text:p text:style-name="Text_20_body">This would output:</text:p>
+   <text:p text:style-name="Preformatted_20_Text">pythonCopy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text">The value of num is: 3.141590</text:span></text:p>
+   <text:p text:style-name="Text_20_body">You can also specify the number of decimal places to display by adding a number after the % sign. For example, if you want to display the value of &quot;num&quot; with only 2 decimal places, you can use the following code:</text:p>
+   <text:p text:style-name="Preformatted_20_Text">cCopy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text">double num = 3.14159;</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text">System.out.printf(&quot;The value of num is: %.2f&quot;, num);</text:span></text:p>
+   <text:p text:style-name="Text_20_body">This would output:</text:p>
+   <text:p text:style-name="Preformatted_20_Text">pythonCopy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text">The value of num is: 3.14</text:span></text:p>
+   <text:p text:style-name="Text_20_body">Note that when using the %f specifier, the default number of decimal places displayed is 6.</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Standard">explain how System.out.println(&quot;Item is returned:&quot;+gm.showItem(45.6)); of my main class is printing two statement, the method is , public &lt;T&gt; T showItem(T item){ System.out.println(&quot;The item is:&quot;+ item); return item; }</text:p>
+   <text:p text:style-name="Text_20_body">The code <text:span text:style-name="Source_20_Text">System.out.println(&quot;Item is returned:&quot;+gm.showItem(45.6));</text:span> in your main class is invoking the <text:span text:style-name="Source_20_Text">showItem</text:span> method of an instance <text:span text:style-name="Source_20_Text">gm</text:span> with a parameter of value <text:span text:style-name="Source_20_Text">45.6</text:span>. The <text:span text:style-name="Source_20_Text">showItem</text:span> method is defined as follows:</text:p>
+   <text:p text:style-name="Preformatted_20_Text">csharpCopy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text">public &lt;T&gt; T showItem(T item){</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/>System.out.println(&quot;The item is:&quot;+ item);</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/>return item;</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text">}</text:span></text:p>
+   <text:p text:style-name="Text_20_body">This method takes a generic parameter <text:span text:style-name="Source_20_Text">T</text:span> and returns a value of type <text:span text:style-name="Source_20_Text">T</text:span>. Inside the method, it prints the message <text:span text:style-name="Source_20_Text">&quot;The item is:&quot;</text:span> concatenated with the value of the <text:span text:style-name="Source_20_Text">item</text:span> parameter passed to the method.</text:p>
+   <text:p text:style-name="Text_20_body">When the <text:span text:style-name="Source_20_Text">System.out.println</text:span> statement in your main class is executed, the <text:span text:style-name="Source_20_Text">showItem</text:span> method is invoked with the parameter value of <text:span text:style-name="Source_20_Text">45.6</text:span>. The <text:span text:style-name="Source_20_Text">showItem</text:span> method prints the message <text:span text:style-name="Source_20_Text">&quot;The item is: 45.6&quot;</text:span> and returns the value <text:span text:style-name="Source_20_Text">45.6</text:span>. The returned value is then concatenated with the message <text:span text:style-name="Source_20_Text">&quot;Item is returned:&quot;</text:span>, and the resulting string <text:span text:style-name="Source_20_Text">&quot;Item is returned:45.6&quot;</text:span> is printed to the console.</text:p>
+   <text:p text:style-name="Text_20_body">Therefore, the <text:span text:style-name="Source_20_Text">System.out.println</text:span> statement in your main class is printing two statements:</text:p>
+   <text:list xml:id="list849909024" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text">&quot;The item is: 45.6&quot;</text:span>, which is printed by the <text:span text:style-name="Source_20_Text">showItem</text:span> method.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body"><text:span text:style-name="Source_20_Text">&quot;Item is returned:45.6&quot;</text:span>, which is printed by the <text:span text:style-name="Source_20_Text">System.out.println</text:span> statement in your main class.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="0"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="1"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Rabindra Dahal</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="Text_20_body">why it doesnot print item is returned 45.6 first and the item is 45.6 after it, since the value for item is returned by showItem does it go each line of called method and execute them till it reaches returned item, show me the process which after which gets called .</text:p>
+   <text:p text:style-name="Text_20_body">The order in which the output is printed depends on the order in which the <text:span text:style-name="Source_20_Text">System.out.println</text:span> statements are executed. In the <text:span text:style-name="Source_20_Text">System.out.println(&quot;Item is returned:&quot;+gm.showItem(45.6));</text:span> statement, the <text:span text:style-name="Source_20_Text">gm.showItem(45.6)</text:span> method call is evaluated first, which means that the <text:span text:style-name="Source_20_Text">showItem</text:span> method is executed first.</text:p>
+   <text:p text:style-name="Text_20_body">Inside the <text:span text:style-name="Source_20_Text">showItem</text:span> method, the statement <text:span text:style-name="Source_20_Text">System.out.println(&quot;The item is:&quot;+ item);</text:span> is executed first, which prints the message <text:span text:style-name="Source_20_Text">&quot;The item is: 45.6&quot;</text:span> to the console. Then, the method returns the value <text:span text:style-name="Source_20_Text">45.6</text:span>.</text:p>
+   <text:p text:style-name="Text_20_body">After the <text:span text:style-name="Source_20_Text">showItem</text:span> method call is evaluated, the result (<text:span text:style-name="Source_20_Text">45.6</text:span>) is concatenated with the string <text:span text:style-name="Source_20_Text">&quot;Item is returned:&quot;</text:span> to produce the final output string <text:span text:style-name="Source_20_Text">&quot;Item is returned:45.6&quot;</text:span>, which is then printed to the console.</text:p>
+   <text:p text:style-name="Text_20_body">Therefore, the output order is determined by the order of execution of the <text:span text:style-name="Source_20_Text">System.out.println</text:span> statements. In this case, the <text:span text:style-name="Source_20_Text">System.out.println</text:span> statement in the main method is executed after the <text:span text:style-name="Source_20_Text">System.out.println</text:span> statement inside the <text:span text:style-name="Source_20_Text">showItem</text:span> method.</text:p>
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Image3" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="2"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image4" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="3"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Rabindra Dahal</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="Text_20_body">still i am little confused, what the process, first of all main method gets executed right ?, in my main method the line sysout is printing item is returned with value , i understand showItem gets called for the value but why jvm doesnot just print item is returned and after gets called it prints other stuffs, should it execute full line at once and not the partial line or what ??, and if showItem has 4 -5 lines of statement after it returns value then our jvm executes all those lines before returning the value ??</text:p>
+   <text:p text:style-name="Text_20_body">Yes, the <text:span text:style-name="Source_20_Text">main</text:span> method is the entry point of your program and it gets executed first by the JVM. When the <text:span text:style-name="Source_20_Text">System.out.println(&quot;Item is returned:&quot;+gm.showItem(45.6));</text:span> line is executed, the following sequence of events occur:</text:p>
+   <text:list xml:id="list2715827839" text:style-name="L2">
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The <text:span text:style-name="Source_20_Text">gm.showItem(45.6)</text:span> method call is evaluated first. This means that the <text:span text:style-name="Source_20_Text">showItem</text:span> method is executed with the parameter value of <text:span text:style-name="Source_20_Text">45.6</text:span>.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">Inside the <text:span text:style-name="Source_20_Text">showItem</text:span> method, the statement <text:span text:style-name="Source_20_Text">System.out.println(&quot;The item is:&quot;+ item);</text:span> is executed first, which prints the message <text:span text:style-name="Source_20_Text">&quot;The item is: 45.6&quot;</text:span> to the console.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The method returns the value <text:span text:style-name="Source_20_Text">45.6</text:span>.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The <text:span text:style-name="Source_20_Text">System.out.println</text:span> statement in the <text:span text:style-name="Source_20_Text">main</text:span> method concatenates the returned value (<text:span text:style-name="Source_20_Text">45.6</text:span>) with the string <text:span text:style-name="Source_20_Text">&quot;Item is returned:&quot;</text:span> to produce the final output string <text:span text:style-name="Source_20_Text">&quot;Item is returned:45.6&quot;</text:span>, which is then printed to the console.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="Text_20_body">Regarding your second question, when the <text:span text:style-name="Source_20_Text">showItem</text:span> method returns a value, the control is <text:soft-page-break/>transferred back to the calling method (in this case, the <text:span text:style-name="Source_20_Text">main</text:span> method). Any statements that come after the method call will be executed after the method call has completed. Therefore, if the <text:span text:style-name="Source_20_Text">showItem</text:span> method has 4-5 lines of statements after it returns a value, those statements will be executed only after the value has been returned and control has been transferred back to the calling method.</text:p>
+   <text:p text:style-name="Text_20_body">In summary, the <text:span text:style-name="Source_20_Text">showItem</text:span> method is executed first when the <text:span text:style-name="Source_20_Text">gm.showItem(45.6)</text:span> method call is evaluated. Once the method returns a value, control is transferred back to the calling method, and any statements after the method call will be executed in order.</text:p>
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Image5" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="4"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image6" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="5"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Rabindra Dahal</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="Text_20_body">u didnot answer one part of my question my question was, why jvm doesnot just print item is returned first since only while jvm execution has reached this line ,it called showItem method , why doesnot it print just &quot;item is returned :&quot; and then showItem&apos;s statement and fianlly full statement i.e Item is returned : 45.6</text:p>
+   <text:p text:style-name="Text_20_body">I apologize for not addressing that part of your question earlier.</text:p>
+   <text:p text:style-name="Text_20_body">The reason why the JVM doesn&apos;t just print &quot;Item is returned:&quot; first and then execute the <text:span text:style-name="Source_20_Text">showItem</text:span> method call is because the <text:span text:style-name="Source_20_Text">showItem</text:span> method call is evaluated as a whole expression. This means that the JVM needs to evaluate the entire expression, including the method call and the concatenation of the strings, before it can print anything to the console.</text:p>
+   <text:p text:style-name="Text_20_body">When the <text:span text:style-name="Source_20_Text">System.out.println</text:span> statement in the <text:span text:style-name="Source_20_Text">main</text:span> method is executed, the JVM evaluates the entire expression <text:span text:style-name="Source_20_Text">(&quot;Item is returned:&quot; + gm.showItem(45.6))</text:span> first, which involves executing the <text:span text:style-name="Source_20_Text">showItem</text:span> method and concatenating the returned value with the string <text:span text:style-name="Source_20_Text">&quot;Item is returned:&quot;</text:span>. Once the entire expression is evaluated, the resulting string <text:span text:style-name="Source_20_Text">&quot;Item is returned:45.6&quot;</text:span> is printed to the console.</text:p>
+   <text:p text:style-name="Text_20_body">In other words, the JVM evaluates the entire expression before printing anything to the console, which is why the output order is not &quot;Item is returned:&quot; followed by the output of the <text:span text:style-name="Source_20_Text">showItem</text:span> method.</text:p>
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Image7" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="6"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image8" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="7"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Rabindra Dahal</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="Text_20_body">interesting, show me the simple code which invovled method calling, and show me the steps jvm reads line and does its thing ??</text:p>
+   <text:p text:style-name="Text_20_body">Sure, here&apos;s an example code that involves a method call:</text:p>
+   <text:p text:style-name="Preformatted_20_Text">csharpCopy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text">public class Example {</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="8"/>int num = 5;</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="8"/>int result = multiplyByTwo(num);</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="8"/>System.out.println(&quot;The result is: &quot; + result);</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/>}</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="4"/>public static int multiplyByTwo(int num) {</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="8"/>int result = num * 2;</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:s text:c="8"/>return result;</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:s text:c="4"/>}</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text">}</text:span></text:p>
+   <text:p text:style-name="Text_20_body">Here are the steps that the JVM follows when it executes the code:</text:p>
+   <text:list xml:id="list3539915321" text:style-name="L3">
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The JVM starts executing the code from the <text:span text:style-name="Source_20_Text">main</text:span> method, which is the entry point of the program.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The variable <text:span text:style-name="Source_20_Text">num</text:span> is initialized with the value <text:span text:style-name="Source_20_Text">5</text:span>.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The <text:span text:style-name="Source_20_Text">multiplyByTwo</text:span> method is called with the parameter value of <text:span text:style-name="Source_20_Text">num</text:span> (which is <text:span text:style-name="Source_20_Text">5</text:span>).</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The JVM jumps to the <text:span text:style-name="Source_20_Text">multiplyByTwo</text:span> method and creates a new stack frame for the method call.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The parameter value of <text:span text:style-name="Source_20_Text">num</text:span> (which is <text:span text:style-name="Source_20_Text">5</text:span>) is passed to the <text:span text:style-name="Source_20_Text">multiplyByTwo</text:span> method and stored in a local variable with the same name.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The statement <text:span text:style-name="Source_20_Text">int result = num * 2;</text:span> is executed, which assigns the value <text:span text:style-name="Source_20_Text">10</text:span> to the local variable <text:span text:style-name="Source_20_Text">result</text:span>.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The value of <text:span text:style-name="Source_20_Text">result</text:span> (which is <text:span text:style-name="Source_20_Text">10</text:span>) is returned to the calling method (i.e., the <text:span text:style-name="Source_20_Text">main</text:span> method).</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The returned value (<text:span text:style-name="Source_20_Text">10</text:span>) is assigned to the variable <text:span text:style-name="Source_20_Text">result</text:span> in the <text:span text:style-name="Source_20_Text">main</text:span> method.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The <text:span text:style-name="Source_20_Text">System.out.println</text:span> statement concatenates the returned value (<text:span text:style-name="Source_20_Text">10</text:span>) with the string <text:span text:style-name="Source_20_Text">&quot;The result is: &quot;</text:span> to produce the final output string <text:span text:style-name="Source_20_Text">&quot;The result is: 10&quot;</text:span>.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The resulting string <text:span text:style-name="Source_20_Text">&quot;The result is: 10&quot;</text:span> is printed to the console.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="Text_20_body">I hope this example helps you understand how the JVM executes method calls and how the control flows between different methods in a program.</text:p>
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Image9" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="8"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image10" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="9"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Rabindra Dahal</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="Text_20_body">jvm does have pointer ?</text:p>
+   <text:p text:style-name="Text_20_body">The JVM does not have a direct concept of pointers like you would find in lower-level programming languages such as C or C++. Instead, the JVM uses a system of references to manage memory and object allocation.</text:p>
+   <text:p text:style-name="Text_20_body">In Java, all objects are allocated on the heap, and all references to those objects are stored on the stack. When you create an object, the JVM allocates memory for the object on the heap and returns a reference to that memory. This reference is essentially a handle or identifier that you can use to access the object&apos;s properties and methods. The reference itself is stored on the stack, which is a special area of memory used for method invocations and local variable storage.</text:p>
+   <text:p text:style-name="Text_20_body">When you pass an object reference as an argument to a method, you&apos;re passing a copy of the reference, not a copy of the object itself. This means that both the caller and the callee are referencing the same object on the heap, and any modifications made to the object by the callee will be visible to the caller.</text:p>
+   <text:p text:style-name="Text_20_body">So, while the JVM does not have direct pointers like you would find in C or C++, it uses a system <text:soft-page-break/>of references to manage memory and object allocation in a similar way.</text:p>
+   <text:p text:style-name="Text_20_body"><draw:frame draw:style-name="fr1" draw:name="Image11" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="10"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image12" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="11"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Rabindra Dahal</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="Text_20_body">in recents example , in those steps you started from saying jvm starts executing from main method, i wated a full fleged steps, does it ignore class names and import statement then , does it directly jump to main method without even scanning through class names and import statements ?</text:p>
+   <text:p text:style-name="Text_20_body">The JVM executes Java bytecode instructions, which are generated by the Java compiler from the source code. Before the bytecode is executed, it is first loaded into memory by the JVM. This process involves several steps, including class loading, linking, and initialization.</text:p>
+   <text:p text:style-name="Text_20_body">Here are the high-level steps that the JVM follows when it executes a Java program:</text:p>
+   <text:list xml:id="list3860363120" text:style-name="L4">
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The JVM loads the bytecode for the program, which consists of one or more class files.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The class files are verified to ensure that they adhere to the rules of the Java language and are not malicious.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The verified class files are then prepared for execution, which involves allocating memory for static fields and initializing them with default values.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The prepared classes are then linked together to form a runtime image of the program. This involves resolving symbolic references between classes, such as method calls and field accesses.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The linked classes are initialized, which involves executing static initializers and assigning values to static fields.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The JVM locates the entry point of the program, which is the <text:span text:style-name="Source_20_Text">main</text:span> method in the class that was specified on the command line.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="Text_20_body">The <text:span text:style-name="Source_20_Text">main</text:span> method is executed, and the program starts running.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="Text_20_body">During the class loading, linking, and initialization steps, the JVM reads and processes all the class and import statements in the program. The JVM needs to do this in order to find and load all the required classes and resources that the program depends on.</text:p>
+   <text:p text:style-name="Text_20_body">So, to answer your question, the JVM does not ignore class names and import statements. It reads and processes them during the loading and linking steps, which occur before the <text:span text:style-name="Source_20_Text">main</text:span> method is executed.</text:p>
+   <text:p text:style-name="Standard"/>
+  </office:text>
+ </office:body>
+</office:document>
