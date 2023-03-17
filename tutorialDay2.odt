@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2023-03-14T14:08:05.917845790</dc:date><meta:editing-duration>PT10H13M56S</meta:editing-duration><meta:editing-cycles>8</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="16" meta:object-count="0" meta:page-count="15" meta:paragraph-count="266" meta:word-count="2609" meta:character-count="16656" meta:non-whitespace-character-count="13539"/></office:meta>
+ <office:meta><dc:date>2023-03-15T08:00:39.560838075</dc:date><meta:editing-duration>PT10H14M25S</meta:editing-duration><meta:editing-cycles>9</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="16" meta:object-count="0" meta:page-count="15" meta:paragraph-count="266" meta:word-count="2610" meta:character-count="16659" meta:non-whitespace-character-count="13541"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">393093</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">388078</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">39123</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">16254</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11061</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">430632</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">11619</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">399507</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">393093</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">388078</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">39121</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">409346</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">404331</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -88,7 +88,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1091850</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1127359</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -154,7 +154,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -298,28 +298,15 @@
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false"/>
    <style:text-properties loext:padding="0in" loext:border="none"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
    <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false" fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt" loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
@@ -332,6 +319,9 @@
   </style:style>
   <style:style style:name="T4" style:family="text">
    <style:text-properties officeooo:rsid="000a134e"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="001133bf"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:vertical-pos="top" style:vertical-rel="baseline" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -733,17 +723,19 @@
     </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image16" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="15"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
      <svg:title>Rabindra Dahal</svg:title>
     </draw:frame></text:p>
-   <text:p text:style-name="P3">Then generally why developers make class with explicit data type like string and integer on it since using generics we can leverage many advantages ??</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3"><text:span text:style-name="T5">Q. </text:span>Then generally why developers make class with explicit data type like string and integer on it since using generics we can leverage many advantages ??</text:p>
    <text:p text:style-name="P6"><text:span text:style-name="T1">Developers may choose to use explicit data types like </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Integer</text:span></text:span><text:span text:style-name="T1"> in their classes for a variety of reasons. Some possible reasons include:</text:span></text:p>
-   <text:list xml:id="list4179521732" text:style-name="L1">
+   <text:list xml:id="list705275322" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P18"><text:span text:style-name="T1">Simplicity: In some cases, it may be simpler and more straightforward to use specific data types instead of generics. For example, if you have a class that represents a person&apos;s name, you might use a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1"> data type instead of a generic type parameter, because most people&apos;s names are represented as strings.</text:span></text:p>
+     <text:p text:style-name="P14"><text:span text:style-name="T1">Simplicity: In some cases, it may be simpler and more straightforward to use specific data types instead of generics. For example, if you have a class that represents a person&apos;s name, you might use a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1"> data type instead of a generic type parameter, because most people&apos;s names are represented as strings.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18"><text:span text:style-name="T1">Type safety: Generics can help ensure type safety by allowing you to specify the expected data type of a variable or method parameter. However, in some cases, using specific data types like </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Integer</text:span></text:span><text:span text:style-name="T1"> may provide more explicit type safety guarantees.</text:span></text:p>
+     <text:p text:style-name="P14"><text:span text:style-name="T1">Type safety: Generics can help ensure type safety by allowing you to specify the expected data type of a variable or method parameter. However, in some cases, using specific data types like </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Integer</text:span></text:span><text:span text:style-name="T1"> may provide more explicit type safety guarantees.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P19">Legacy code: Some older code or libraries may not support generics, so developers may need to use explicit data types to maintain compatibility with existing code.</text:p>
+     <text:p text:style-name="P15">Legacy code: Some older code or libraries may not support generics, so developers may need to use explicit data types to maintain compatibility with existing code.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P2">That being said, generics can provide many advantages, such as improved code reuse, greater flexibility, and better type safety. So developers should carefully consider the benefits and drawbacks of using generics versus specific data types when designing their classes.</text:p>
@@ -751,8 +743,8 @@
    <text:p text:style-name="P11"><text:tab/></text:p>
    <text:p text:style-name="P9">tell me why println is not working in this code, GenericsMethod gm = new GenericsMethod(); // gm.showItem(3); System.out.println(showItem()); and showItem method&apos;s code is , public &lt;T&gt; void showItem(T item){ System.out.println(&quot;The item is:&quot;+ item); }</text:p>
    <text:p text:style-name="P6"><text:span text:style-name="T1">The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">println</text:span></text:span><text:span text:style-name="T1"> statement in the code is not working because the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">showItem()</text:span></text:span><text:span text:style-name="T1"> method is not returning any value to be printed.</text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T1">The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">showItem()</text:span></text:span><text:span text:style-name="T1"> method is defined as a void method, meaning it does not return anything. Instead, it prints out the value of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">item</text:span></text:span><text:span text:style-name="T1"> parameter to the console using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">println</text:span></text:span><text:span text:style-name="T1"> statement inside the method.</text:span></text:p>
-   <text:p text:style-name="P6"><text:soft-page-break/><text:span text:style-name="T1">To fix the issue, you can modify the code to call the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">showItem()</text:span></text:span><text:span text:style-name="T1"> method with a value, and then the value will be printed to the console. For example:</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T1">The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">showItem()</text:span></text:span><text:span text:style-name="T1"> method is defined as a void method, meaning it does not return anything. </text:span><text:soft-page-break/><text:span text:style-name="T1">Instead, it prints out the value of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">item</text:span></text:span><text:span text:style-name="T1"> parameter to the console using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">println</text:span></text:span><text:span text:style-name="T1"> statement inside the method.</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T1">To fix the issue, you can modify the code to call the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">showItem()</text:span></text:span><text:span text:style-name="T1"> method with a value, and then the value will be printed to the console. For example:</text:span></text:p>
    <text:p text:style-name="P1">scssCopy code</text:p>
    <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">GenericsMethod gm = new GenericsMethod();</text:span></text:span></text:p>
    <text:p text:style-name="P4"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">gm.showItem(3);</text:span></text:span></text:p>

@@ -9,7 +9,11 @@ public class GenericsMethod {
 	
 	public <T> T showItem(T item){
 		
-		System.out.println("The item is:"+ item);
+		//here we could just print item instead of item.toString()
+		
+		System.out.println("The item is:"+ item.toString());
+		
+		
 		
 		return item;
 	}

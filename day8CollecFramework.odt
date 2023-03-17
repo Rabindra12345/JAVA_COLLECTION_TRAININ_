@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:date>2023-03-12T14:18:09.296480052</dc:date><meta:editing-duration>PT6H1M27S</meta:editing-duration><meta:editing-cycles>70</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="16" meta:paragraph-count="139" meta:word-count="3679" meta:character-count="21454" meta:non-whitespace-character-count="17742"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">449672</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">39123</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16254</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">11061</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">459207</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">449672</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">39121</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">465924</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">84</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2127010</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1949782</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Abyssinica SIL" svg:font-family="&apos;Abyssinica SIL&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeSerif" svg:font-family="FreeSerif" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans Mono CJK SC" svg:font-family="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Times new roman" svg:font-family="&apos;Times new roman&apos;" style:font-family-generic="roman"/>
+  <style:font-face style:name="Ubuntu" svg:font-family="Ubuntu" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:language="zxx" fo:country="none" style:font-size-asian="12pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Noto Sans Mono CJK SC" style:font-family-asian="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Source_20_Text" style:display-name="Source Text" style:family="text">
+   <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" style:font-name-asian="Noto Sans Mono CJK SC" style:font-family-asian="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="18pt" fo:background-color="#ffff00" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties style:font-name="Abyssinica SIL" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Abyssinica SIL" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Abyssinica SIL" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Abyssinica SIL" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="FreeSerif" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="FreeSerif" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="normal" fo:background-color="#ffff00" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties style:font-name="FreeSerif" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties style:font-name="FreeSerif" fo:font-size="16pt" fo:background-color="#ffff00" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#650953" loext:opacity="100%" style:font-name="Abyssinica SIL" fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#650953" loext:opacity="100%" style:font-name="Abyssinica SIL" fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="16pt" fo:background-color="#ffff00" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#650953" loext:opacity="100%" style:font-name="Ubuntu" fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#650953" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Abyssinica SIL" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:color="#650953" loext:opacity="100%" style:font-name="Ubuntu" fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties style:font-name="Times new roman"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="18pt" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties style:font-name="Times new roman" fo:font-size="16pt" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="001dc056"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties style:font-name="Abyssinica SIL"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties style:font-name="Abyssinica SIL" fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties style:font-name="Abyssinica SIL" fo:font-size="18pt" fo:font-style="normal" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-size-complex="18pt" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties style:font-name="Abyssinica SIL" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties style:font-name="Abyssinica SIL" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties style:font-name="FreeSerif"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties style:font-name="FreeSerif" fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties style:font-name="FreeSerif" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties style:font-name="FreeSerif" fo:font-size="16pt" fo:font-style="normal" fo:font-weight="normal" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties style:font-name="FreeSerif" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties style:font-name="FreeSerif" fo:font-size="16pt" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties officeooo:rsid="002074a2"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:color="#650953" loext:opacity="100%"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties style:font-name="Ubuntu"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="16pt" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties style:font-name="Ubuntu" fo:font-size="16pt" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P14"><text:span text:style-name="T7">Q. T</text:span>each me collection framework and tell me if i take list of name from database using List&lt;String&gt; how my spring framwork knows about taking each firstname on seperate list position and not take all the firstname on single element of string ?? how ??</text:p>
+   <text:p text:style-name="P15">Sure, I can teach you about the Collection Framework in Java and address your question about Spring Framework.</text:p>
+   <text:p text:style-name="P8">The Collection Framework in Java provides a set of classes and interfaces to store, manipulate and retrieve a group of objects. It includes the List, Set, and Map interfaces, as well as their implementation classes, such as ArrayList, HashSet, and HashMap. These classes provide a wide range of functionalities to store, manipulate and access elements in the collection.</text:p>
+   <text:p text:style-name="P8">Now, coming to your question about Spring Framework, it is a popular application development framework for Java. When you retrieve a list of names from a database using List&lt;String&gt;, each name is stored as a separate String object in the list. This is because the List interface allows you to store and access a collection of elements sequentially, and each element in the list is independent of the other elements.</text:p>
+   <text:p text:style-name="P8">In Spring Framework, you can retrieve a list of names from a database using different mechanisms, such as using JDBC, Hibernate, or JPA. Once you retrieve the list, you can use the List interface methods, such as get(index) or iterator(), to access each element in the list separately.</text:p>
+   <text:p text:style-name="P8">For example, if you have a list of names like [&quot;John&quot;, &quot;Jane&quot;, &quot;Tom&quot;], you can use the get(0) method to retrieve the first name &quot;John&quot;, get(1) to retrieve the second name &quot;Jane&quot;, and so <text:soft-page-break/>on.</text:p>
+   <text:p text:style-name="P8">So, to summarize, when you retrieve a list of names from a database using List&lt;String&gt; in Spring Framework, each name is stored as a separate String object in the list, and you can access each element in the list separately using the List interface methods.</text:p>
+   <text:p text:style-name="P15"><text:span text:style-name="T7">Q. W</text:span>hy it gets stored as a separate string obj in the list?? how it knows that ??what tells spring to do that ?</text:p>
+   <text:p text:style-name="P8">It&apos;s not actually Spring Framework that stores each name as a separate String object in the list, it&apos;s the Java programming language itself that does that.</text:p>
+   <text:p text:style-name="P8">When you retrieve a list of names from a database using JDBC or any other mechanism in Java, each name is fetched as a separate row or record in the result set. And when you fetch each row or record using the ResultSet object, you get each value (such as a name) as a separate object.</text:p>
+   <text:p text:style-name="P8">So, when you retrieve a list of names using List&lt;String&gt;, each name is stored as a separate object in the list, because that&apos;s how the List interface is designed. The List interface allows you to store a collection of objects sequentially, and each object in the list is independent of the other objects.</text:p>
+   <text:p text:style-name="P8">In other words, when you add each name to the list using the add() method, it gets added as a separate String object in the list.</text:p>
+   <text:p text:style-name="P8">For example, consider the following code:</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">List&lt;String&gt; names = new ArrayList&lt;&gt;();</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"><text:tab/>names.add(&quot;John&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"><text:tab/>names.add(&quot;Jane&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"><text:tab/>names.add(&quot;Tom&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"/></text:span></text:p>
+   <text:p text:style-name="P8">In this code, each name (&quot;John&quot;, &quot;Jane&quot;, and &quot;Tom&quot;) is added as a separate String object in the list &quot;names&quot;.</text:p>
+   <text:p text:style-name="P8">So, it&apos;s not actually Spring Framework that decides how each name is stored in the list, it&apos;s the Java programming language and the List interface that define how objects are stored in the list. Spring Framework simply uses the List interface to store and retrieve a collection of objects, including a list of names.</text:p>
+   <text:p text:style-name="P15"><text:span text:style-name="T7">Q. </text:span>Still i am not clear, while retrieving list of names from database, why doesnot it take all the names as a single String object.how it make sure ??</text:p>
+   <text:p text:style-name="P8">When retrieving a list of names from a database using JDBC or any other mechanism in Java, each name is fetched as a separate row or record in the result set. And when you fetch each row or record using the ResultSet object, you get each value (such as a name) as a separate object.</text:p>
+   <text:p text:style-name="P8">For example, consider the following code to retrieve a list of names from a database using JDBC:</text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T10"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16">List&lt;String&gt; names = new ArrayList&lt;&gt;();</text:span></text:span></text:p>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16"><text:s/><text:tab/>try (Connection conn = <text:tab/>DriverManager.getConnection(url, user, password);</text:span></text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16"><text:s text:c="5"/>Statement stmt = conn.createStatement();</text:span></text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16"><text:s text:c="5"/>ResultSet rs = stmt.executeQuery(&quot;SELECT name FROM mytable&quot;)) {</text:span></text:span></text:p>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16"><text:s text:c="4"/>while (rs.next()) {</text:span></text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16"><text:s text:c="8"/>String name = rs.getString(&quot;name&quot;);</text:span></text:span></text:p>
+   <text:p text:style-name="P9"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16"><text:s text:c="8"/>names.add(name);</text:span></text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16"><text:s text:c="4"/><text:tab/><text:tab/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T16"><text:tab/>}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2"/></text:span></text:p>
+   <text:p text:style-name="P8">In this code, we are retrieving the names from a database table named &quot;mytable&quot; using a SELECT query. We are fetching each row or record using the ResultSet object, and retrieving the value of the &quot;name&quot; column as a separate String object. We are then adding each name to the list &quot;names&quot; using the add() method.</text:p>
+   <text:p text:style-name="P8">So, it&apos;s not Spring Framework that decides how each name is retrieved from the database and added to the list as a separate object. It&apos;s the JDBC API that retrieves each value (such as a name) as a separate object, and the Java programming language and the List interface that define how objects are stored in the list. Spring Framework simply uses the List interface to store and retrieve a collection of objects, including a list of names.</text:p>
+   <text:p text:style-name="P15"><text:span text:style-name="T7">Q. I</text:span>n above code i can unde<text:span text:style-name="T7">r</text:span>stand each name is stored as result set entity but in jpa we <text:span text:style-name="T7">have not</text:span> ma<text:span text:style-name="T7">de</text:span> instance of resultset nah? how what&apos;s up with that ?</text:p>
+   <text:p text:style-name="P8">You are correct that in JPA, you don&apos;t directly use ResultSet to retrieve data from the database. Instead, JPA provides an object-relational mapping (ORM) framework that allows you to map database tables to Java classes and map database rows to Java objects.</text:p>
+   <text:p text:style-name="P8">When you retrieve a list of names using JPA, you typically use JPQL (Java Persistence Query Language) or Criteria API to define a query that retrieves the names from the database. The result of the query is typically a List of Java objects that <text:soft-page-break/>represent the entities retrieved from the database.</text:p>
+   <text:p text:style-name="P8">For example, consider the following code to retrieve a list of names using JPA:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">List&lt;String&gt; names = entityManager.createQuery(</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"><text:s text:c="8"/>&quot;SELECT name FROM Employee&quot;, String.class)</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"><text:s text:c="8"/>.getResultList();</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T5"/></text:span></text:p>
+   <text:p text:style-name="P8">In this code, we are using JPQL to retrieve the names of all employees from the database table &quot;Employee&quot;. The query returns a List of String objects that represent the names of the employees.</text:p>
+   <text:p text:style-name="P8">Behind the scenes, JPA maps the database table &quot;Employee&quot; to a Java class (e.g. Employee.class) and maps each row in the table to an instance of the class. The SELECT query retrieves only the &quot;name&quot; column from the table and returns a List of String objects that represent the names of the employees.</text:p>
+   <text:p text:style-name="P8">So, in JPA, you don&apos;t need to create a ResultSet object and iterate over it to retrieve data from the database. Instead, JPA provides a higher-level abstraction that allows you to work with Java objects directly and abstracts away the details of how the data is retrieved from the database.</text:p>
+   <text:p text:style-name="P15"><text:span text:style-name="T7">Q. H</text:span>ow does it know that it should map name field of db to only the name field of employee, employee may contain lost of other field other than just name , right ?so .........?</text:p>
+   <text:p text:style-name="P8">In JPA, you can use annotations to define the mapping between database tables and Java classes, and between database columns and Java class fields or properties.</text:p>
+   <text:p text:style-name="P8"><text:soft-page-break/>For example, consider the following Java class definition for an Employee entity:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">@Entity</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">@Table(name = &quot;employee&quot;)</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">public class Employee {</text:span></text:span></text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"><text:s text:c="4"/>@Id</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"><text:s text:c="4"/>@GeneratedValue(strategy = GenerationType.IDENTITY)</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"><text:s text:c="4"/>private Long id;</text:span></text:span></text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"><text:s text:c="4"/>@Column(name = &quot;name&quot;)</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"><text:s text:c="4"/>private String name;</text:span></text:span></text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18"><text:s text:c="4"/>// other fields, getters and setters</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"/></text:span></text:p>
+   <text:p text:style-name="P8">In this code, we have annotated the Employee class with the @Entity annotation to indicate that it is a JPA entity. We have also used the @Table annotation to specify the name of the database table that corresponds to this entity.</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T19">We have defined a field named &quot;name&quot; in the class and annotated it with the @Column annotation to specify that it should be mapped to the</text:span> <text:span text:style-name="T19">&quot;name&quot; column in the database table. We have also defined other fields in the class (not shown in this code) that correspond to other columns in the database table.</text:span></text:p>
+   <text:p text:style-name="P8">When you execute a JPQL query or use the Criteria API to retrieve Employee entities from the database, JPA knows which database columns to map to which fields or properties in the Java class based on these annotations.</text:p>
+   <text:p text:style-name="P8">For example, when you execute the following JPQL query to <text:soft-page-break/>retrieve the names of all employees:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">SELECT e.name FROM Employee e</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2"/></text:span></text:p>
+   <text:p text:style-name="P8">JPA knows to retrieve only the &quot;name&quot; column from the &quot;employee&quot; table, because we have mapped the &quot;name&quot; field in the Employee class to the &quot;name&quot; column in the table using the @Column annotation.</text:p>
+   <text:p text:style-name="P8">So, by using annotations to define the mapping between database tables and Java classes, and between database columns and Java class fields or properties, JPA can automatically map the data retrieved from the database to the corresponding fields or properties in the Java class. </text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P14"><text:span text:style-name="T7">Q. O</text:span>kay then in case of native query how does it identify whether table should be mapped to entity or model class ?? </text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P8">In order to map a table to an entity or model class, you need to define a mapping between the table columns and the properties of the entity or model class. This is typically done using an Object Relational Mapping (ORM) framework.</text:p>
+   <text:p text:style-name="P8">When you execute a native query in an ORM framework, the framework typically returns a collection of objects that match the result set of the query. The framework uses the metadata that you&apos;ve defined in your entity or model class to determine which columns in the result set correspond to which properties in the object.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T12">For example, suppose you have an entity class called </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">Employee</text:span></text:span><text:span text:style-name="T12"> </text:span><text:soft-page-break/><text:span text:style-name="T12">with properties </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">id</text:span></text:span><text:span text:style-name="T12">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">name</text:span></text:span><text:span text:style-name="T12">, and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">salary</text:span></text:span><text:span text:style-name="T12">. If you execute a native query that returns columns named </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">id</text:span></text:span><text:span text:style-name="T12">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">emp_name</text:span></text:span><text:span text:style-name="T12">, and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">salary_amount</text:span></text:span><text:span text:style-name="T12">, the ORM framework will look at the metadata for the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">Employee</text:span></text:span><text:span text:style-name="T12"> class to determine that the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">id</text:span></text:span><text:span text:style-name="T12"> column maps to the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">id</text:span></text:span><text:span text:style-name="T12"> property, the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">emp_name</text:span></text:span><text:span text:style-name="T12"> column maps to the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">name</text:span></text:span><text:span text:style-name="T12"> property, and the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">salary_amount</text:span></text:span><text:span text:style-name="T12"> column maps to the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">salary</text:span></text:span><text:span text:style-name="T12"> property.</text:span></text:p>
+   <text:p text:style-name="P8">If the column names in the query result set do not match the property names in the entity or model class, you can use aliases in the query to specify the mapping. For example, you could write a query like this:</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">SELECT e.emp_id AS id, e.emp_name AS name, e.salary_amount AS salary FROM Employee e WHERE e.salary_amount &gt; 50000</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12"/></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T12">In this case, the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">AS</text:span></text:span><text:span text:style-name="T12"> clauses in the query alias the column names to match the property names in the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">Employee</text:span></text:span><text:span text:style-name="T12"> class.</text:span></text:p>
+   <text:p text:style-name="P15"><text:span text:style-name="T7">Q. I</text:span>n native query we use table name suppose we have Employee entity mapped to a employee, on native query we use employee nah? or could we also use Employee?? . so we we have used employee i.e db table name how does java identify which class to look and map result set to if we want to retrieve List of employee’<text:span text:style-name="T7">s</text:span> name ??</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T12">When you execute a native query in a Java application that uses an ORM framework, you typically use the table name in the query rather than the entity or model class name. In your example, if the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">Employee</text:span></text:span><text:span text:style-name="T12"> entity is mapped to a database table called </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">employee</text:span></text:span><text:span text:style-name="T12">, you would use </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">employee</text:span></text:span><text:span text:style-name="T12"> in your native query.</text:span></text:p>
+   <text:p text:style-name="P8"><text:soft-page-break/>For example, you might write a native query like this to retrieve a list of employee names:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">SELECT e.name FROM employee e WHERE e.salary &gt; 50000</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2"/></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T12">When you execute this query, the ORM framework will use the metadata for the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">Employee</text:span></text:span><text:span text:style-name="T12"> entity to determine which columns in the result set correspond to which properties in the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">Employee</text:span></text:span><text:span text:style-name="T12"> class. In this case, the query selects the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">name</text:span></text:span><text:span text:style-name="T12"> column from the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">employee</text:span></text:span><text:span text:style-name="T12"> table, which maps to the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">name</text:span></text:span><text:span text:style-name="T12"> property in the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">Employee</text:span></text:span><text:span text:style-name="T12"> class.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T12">The ORM framework will then create a list of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">Employee</text:span></text:span><text:span text:style-name="T12"> objects, each with the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">name</text:span></text:span><text:span text:style-name="T12"> property set to the value from the corresponding row in the query result set. The other properties of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">Employee</text:span></text:span><text:span text:style-name="T12"> objects will be set to their default values, since they are not included in the query.</text:span></text:p>
+   <text:p text:style-name="P8">It&apos;s worth noting that when you use native queries, you lose some of the benefits of using an ORM framework, such as automatic query generation and type-safe queries. In general, it&apos;s a good idea to use the ORM framework&apos;s query generation features whenever possible, and only use native queries when you need to perform more complex queries that the framework doesn&apos;t support.</text:p>
+   <text:p text:style-name="P15"><text:span text:style-name="T7">Q. H</text:span>ow does jpa create result set sence we don&apos;t define anywhere ??</text:p>
+   <text:p text:style-name="P8">When you execute a JPQL (Java Persistence Query Language) query using JPA (Java Persistence API), the JPA provider generates the result set for you automatically based on the <text:soft-page-break/>metadata it has about the entities and mappings in your application.</text:p>
+   <text:p text:style-name="P8">The JPA provider uses the metadata in your application&apos;s entity classes and mapping files to determine which tables and columns in the database correspond to which properties in your entity classes. It then generates SQL statements to query the database based on the JPQL query you provided.</text:p>
+   <text:p text:style-name="P8">When the JPA provider executes the SQL query, it retrieves the result set from the database and maps the columns in the result set to the properties of the entity objects that it creates. This mapping is done based on the metadata in your entity classes and mapping files.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T12">For example, suppose you have an entity class called </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">Employee</text:span></text:span><text:span text:style-name="T12"> with properties </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">id</text:span></text:span><text:span text:style-name="T12">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">name</text:span></text:span><text:span text:style-name="T12">, and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">salary</text:span></text:span><text:span text:style-name="T12">. If you execute a JPQL query like this:</text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">SELECT e FROM Employee e WHERE e.salary &gt; 50000</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T2"/></text:span></text:p>
+   <text:p text:style-name="P3">The JPA provider will generate an SQL query like this:</text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T18">SELECT id, name, salary FROM employee WHERE salary &gt; 50000</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T17"/></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T12">The JPA provider will then retrieve the result set from the database and map the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">id</text:span></text:span><text:span text:style-name="T12">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">name</text:span></text:span><text:span text:style-name="T12">, and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">salary</text:span></text:span><text:span text:style-name="T12"> columns to the corresponding properties in the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">Employee</text:span></text:span><text:span text:style-name="T12"> objects that it creates. This mapping is done based on the metadata in your </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T12">Employee</text:span></text:span><text:span text:style-name="T12"> entity class.</text:span></text:p>
+   <text:p text:style-name="P8">So, in summary, JPA creates the result set for you automatically based on the metadata in your application&apos;s entity classes and mapping files, and it maps the columns in the result set to the <text:soft-page-break/>properties of the entity objects that it creates.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P15"><text:span text:style-name="T7">Q. W</text:span>hat is result set , why is it powerful in collection framework, without result set is it possible to retrieve data from database ??</text:p>
+   <text:p text:style-name="P7">In the context of database programming, a result set is a collection of rows that are returned by a database query. A result set typically consists of one or more rows, where each row represents a record in a database table, and each column in the row represents a field in the record.</text:p>
+   <text:p text:style-name="P7">A result set is powerful in the collection framework because it provides a way to iterate over the rows returned by a database query and process them in a programmatic way. A result set can be thought of as a cursor that allows you to move through the rows returned by a query and perform operations on each row as needed.</text:p>
+   <text:p text:style-name="P7">For example, if you want to retrieve all of the employee records from a database table and process them in your Java application, you might execute a SQL query that returns a result set containing all of the rows in the employee table. You can then iterate over the result set using a loop and perform operations on each row as needed, such as printing the employee name, calculating a statistic based on the employee salary, or updating the employee record in the database.</text:p>
+   <text:p text:style-name="P7">Without a result set, it would not be possible to retrieve data from a database in a programmatic way. A result set is a fundamental concept in database programming, and it provides a powerful mechanism for working with large amounts of data in a structured way.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P14"><text:span text:style-name="T7">Q. W</text:span>hat is collection of objects ??</text:p>
+   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="P7">In Java, a collection of objects is simply a group of objects that are <text:soft-page-break/>stored and manipulated together in a structured way. The Java Collection Framework provides a set of classes and interfaces that are designed to work with collections of objects in a flexible and efficient way.</text:p>
+   <text:p text:style-name="P7">A collection of objects can take many forms, such as a list of names, a set of numbers, or a map of key-value pairs. Each object in the collection is typically an instance of a class that defines the type of data being stored.</text:p>
+   <text:p text:style-name="P7">For example, if you have a list of names, each object in the list might be a String object representing a person&apos;s name. Similarly, if you have a set of numbers, each object in the set might be an Integer object representing a numerical value.</text:p>
+   <text:p text:style-name="P7">Collections of objects are useful because they allow you to work with large amounts of data in a structured way. They provide a range of operations and functions that can be used to manipulate and process the data, such as adding or removing objects from the collection, sorting the collection, filtering the collection, and iterating over the collection to perform some action on each object.</text:p>
+   <text:p text:style-name="P7">In summary, a collection of objects is a group of objects that are stored and manipulated together in a structured way, and the Java Collection Framework provides a set of classes and interfaces that are designed to work with collections of objects in a flexible and efficient way.</text:p>
+   <text:p text:style-name="P7"/>
+   <text:p text:style-name="P19"><text:span text:style-name="T21">Q. </text:span>What does jpa getAll method know it should return list of String or list of Entity class ?? or can it return non list type also ?</text:p>
+   <text:p text:style-name="P20"/>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24">The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">getAll</text:span></text:span><text:span text:style-name="T24"> method in JPA is not a standard method provided by JPA itself, but rather a method that you would define within your own JPA repository or DAO class to retrieve all entities of a particular type from the database.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24">The return type of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">getAll</text:span></text:span><text:span text:style-name="T24"> method depends on how it is defined within your code. If you define the method to return a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">List</text:span></text:span><text:span text:style-name="T24"> of a </text:span><text:soft-page-break/><text:span text:style-name="T24">specific entity class, then the method will return a list of objects of that entity class. For example, if you have an entity class called </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">Product</text:span></text:span><text:span text:style-name="T24">, you could define a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">getAllProducts</text:span></text:span><text:span text:style-name="T24"> method in your repository or DAO class like this:</text:span></text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26">public List&lt;Product&gt; getAllProducts() {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:s text:c="4"/><text:tab/><text:tab/>// JPA code to retrieve all Product entities from the <text:tab/><text:tab/><text:tab/>database</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:tab/>}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24"/></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24">On the other hand, if you define the method to return a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">List</text:span></text:span><text:span text:style-name="T24"> of strings, then the method will return a list of strings. For example:</text:span></text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26">public List&lt;String&gt; getAllProductNames() {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:s text:c="4"/><text:tab/><text:tab/>// JPA code to retrieve all Product entities from the <text:tab/><text:tab/><text:tab/>database and extract their names</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:tab/>}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24"/></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24">It&apos;s also possible to define the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">getAll</text:span></text:span><text:span text:style-name="T24"> method to return a single entity object instead of a list. In this case, the method would retrieve a single entity from the database based on some criteria (such as an ID), and return that entity as an object. For example:</text:span></text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26">public Product getProductById(Long id) {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:s text:c="4"/><text:tab/><text:tab/>// JPA code to retrieve a Product entity from the <text:tab/><text:tab/><text:tab/><text:tab/>database based on the ID</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:tab/>}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"/></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24">So, the return type of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">getAll</text:span></text:span><text:span text:style-name="T24"> method in JPA depends on how it is defined within your code.</text:span></text:p>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P23"><text:span text:style-name="T21">Q. </text:span>IN data jpa what does getAll method do since we donot even write methods names and all in the repo ...then what ??</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/><text:span text:style-name="T24">In Spring Data JPA, there is no </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">getAll</text:span></text:span><text:span text:style-name="T24"> method that you need to write explicitly in your repository interface. Instead, Spring Data JPA provides a set of default methods that you can use to retrieve data from the database without writing any queries or implementation code.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24">For example, if you have an entity class called </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">Product</text:span></text:span><text:span text:style-name="T24"> and a repository interface called </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">ProductRepository</text:span></text:span><text:span text:style-name="T24">, you can use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">findAll</text:span></text:span><text:span text:style-name="T24"> method provided by Spring Data JPA to retrieve all </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">Product</text:span></text:span><text:span text:style-name="T24"> entities from the database:</text:span></text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:tab/>public interface ProductRepository extends <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>JpaRepository&lt;Product, Long&gt; {</text:span></text:span></text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:s text:c="3"/><text:tab/><text:tab/> List&lt;Product&gt; findAll();</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:tab/>}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24"/></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24">This method is automatically generated by Spring Data JPA at runtime, based on the naming convention of the method. The method name &quot;findAll&quot; corresponds to a query that retrieves all entities of the type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">Product</text:span></text:span><text:span text:style-name="T24"> from the database.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24">You can also add additional parameters to the method signature to apply filters, sorting, and paging to the query. For example, you can add a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">Sort</text:span></text:span><text:span text:style-name="T24"> parameter to sort the results by a particular property:</text:span></text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:tab/>public interface ProductRepository extends <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>JpaRepository&lt;Product, Long&gt; {</text:span></text:span></text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:s text:c="4"/><text:tab/><text:tab/>List&lt;Product&gt; findAll(Sort sort);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:tab/>}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24"/></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24">And you can call this method with a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">Sort</text:span></text:span><text:span text:style-name="T24"> object to specify the sorting criteria:</text:span></text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24"><text:tab/></text:span></text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26">List&lt;Product&gt; sortedProducts = productRepository.findAll(Sort.by(&quot;name&quot;).ascending());</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24"/></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24">In summary, the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">getAll</text:span></text:span><text:span text:style-name="T24"> method does not exist in Spring Data JPA, but you can use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">findAll</text:span></text:span><text:span text:style-name="T24"> method provided by Spring Data JPA to retrieve all entities of a particular type from the database.</text:span></text:p>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P23"><text:span text:style-name="T21">Q. B</text:span>ut can it return list of String than just list of entity without even writing methods signature on interface ?</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24">By default, the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">findAll</text:span></text:span><text:span text:style-name="T24"> method provided by Spring Data JPA returns a list of entities of the type specified in the repository interface. However, you can customize the query generated by Spring Data JPA to return a list of strings instead of entities.</text:span></text:p>
+   <text:p text:style-name="P22">To do this, you can use a projection query in Spring Data JPA. A projection query allows you to retrieve only specific properties of an entity or multiple entities, and map them to a custom object, such as a string or a DTO (Data Transfer Object).</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24">Here is an example of a projection query that returns a list of strings representing the names of all </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">Product</text:span></text:span><text:span text:style-name="T24"> entities in the database:</text:span></text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:tab/>public interface ProductRepository extends <text:tab/><text:tab/><text:tab/><text:tab/><text:tab/>JpaRepository&lt;Product, Long&gt; {</text:span></text:span></text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:s text:c="4"/><text:tab/><text:tab/>@Query(&quot;SELECT p.name FROM Product p&quot;)</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:s text:c="4"/><text:tab/><text:tab/>List&lt;String&gt; findAllProductNames();</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:tab/>}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24"/></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T24">In this example, we have defined a custom method called </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">findAllProductNames</text:span></text:span><text:span text:style-name="T24"> on the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">ProductRepository</text:span></text:span><text:span text:style-name="T24"> interface, and annotated it with </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">@Query</text:span></text:span><text:span text:style-name="T24"> to specify the projection query. The query selects only the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">name</text:span></text:span><text:span text:style-name="T24"> property of all </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T24">Product</text:span></text:span><text:span text:style-name="T24"> entities in the database, and returns a list of strings representing these names.</text:span></text:p>
+   <text:p text:style-name="P22"><text:soft-page-break/>You can call this method on the repository object to retrieve the list of product names:</text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T26"><text:tab/>List&lt;String&gt; productNames = productRepository.findAllProductNames();</text:span></text:span></text:p>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P22">So, to answer your question, you can return a list of strings instead of a list of entities in Spring Data JPA by using projection queries, which allow you to customize the query generated by Spring Data JPA to map selected entity properties to a custom object.</text:p>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P18"/>
+  </office:text>
+ </office:body>
+</office:document>
