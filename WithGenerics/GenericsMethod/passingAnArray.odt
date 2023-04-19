@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2023-03-17T09:57:37.822238917</dc:date><meta:editing-duration>PT32M5S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="2" meta:object-count="0" meta:page-count="2" meta:paragraph-count="50" meta:word-count="600" meta:character-count="3616" meta:non-whitespace-character-count="2894"/></office:meta>
+ <office:meta><dc:date>2023-03-17T16:08:59.560726392</dc:date><meta:editing-duration>PT5M47S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="4" meta:object-count="0" meta:page-count="4" meta:paragraph-count="62" meta:word-count="712" meta:character-count="4350" meta:non-whitespace-character-count="3565"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">44600</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">34</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">39123</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">16254</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11061</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">57632</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16219</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">18688</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">44600</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">34</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">39121</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">60852</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">16286</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -88,7 +88,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">458828</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1662952</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -122,7 +122,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RsidRoot" config:type="int">458828</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1662952</config:config-item>
    <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -254,35 +254,37 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
-   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false" fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="21pt" officeooo:rsid="00195fe8" officeooo:paragraph-rsid="00195fe8" style:font-size-asian="18.3500003814697pt" style:font-size-complex="21pt"/>
   </style:style>
-  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="21pt" fo:font-weight="bold" officeooo:rsid="00195fe8" officeooo:paragraph-rsid="00195fe8" style:font-size-asian="18.3500003814697pt" style:font-weight-asian="bold" style:font-size-complex="21pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false"/>
-   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="16pt" officeooo:paragraph-rsid="00195fe8" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
-   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="16pt" officeooo:paragraph-rsid="00195fe8" fo:background-color="#ffff00" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:color="#c9211e" loext:opacity="100%" fo:font-size="16pt" fo:font-weight="bold" officeooo:paragraph-rsid="00195fe8" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false"/>
-   <style:text-properties loext:padding="0in" loext:border="none"/>
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="00195fe8"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
    <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:vertical-pos="top" style:vertical-rel="baseline" fo:padding="0in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -307,28 +309,43 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P4">Bounded Generics TYpe mean ?</text:p>
-   <text:p text:style-name="P6">Bounded generics, or bounded type parameters, refer to a feature in Java and other programming languages that allows you to restrict the types that can be used as type arguments when instantiating a generic class or method.</text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">In Java, for example, you can use the &quot;extends&quot; keyword to specify a upper bound for a generic type parameter. This means that the type parameter must be a subtype of the specified type, or the specified type itself. For example, the following code defines a generic class called </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Box</text:span></text:span><text:span text:style-name="T1"> that can only hold objects of type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T</text:span></text:span><text:span text:style-name="T1"> that are subtypes of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Number</text:span></text:span><text:span text:style-name="T1"> class:</text:span></text:p>
-   <text:p text:style-name="P1">javaCopy code</text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">class Box&lt;T extends Number&gt; {</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>private T data;</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/></text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public void setData(T data) {</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>this.data = data;</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/></text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public T getData() {</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>return data;</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
-   <text:p text:style-name="P2"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">In this example, the type parameter </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T</text:span></text:span><text:span text:style-name="T1"> is bounded by </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Number</text:span></text:span><text:span text:style-name="T1">, so you can create a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Box</text:span></text:span><text:span text:style-name="T1"> object that can only hold objects of type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Integer</text:span></text:span><text:span text:style-name="T1">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Double</text:span></text:span><text:span text:style-name="T1">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Float</text:span></text:span><text:span text:style-name="T1">, etc., but not objects of other types like </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1"> or </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Boolean</text:span></text:span><text:span text:style-name="T1">.</text:span></text:p>
-   <text:p text:style-name="P6">Using bounded generics allows you to write more type-safe code, as you can enforce constraints on the types that can be used as type arguments. It also enables you to write more generic code that can be reused with different types, while still maintaining some level of type safety.</text:p>
-   <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P4">what is number here ?</text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">In the context of the example I provided, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Number</text:span></text:span><text:span text:style-name="T1"> is a built-in Java class that is the superclass of all numeric wrapper classes, such as </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Integer</text:span></text:span><text:span text:style-name="T1">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Double</text:span></text:span><text:span text:style-name="T1">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Float</text:span></text:span><text:span text:style-name="T1">, etc. By specifying </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T extends Number</text:span></text:span><text:span text:style-name="T1"> as the bound for the generic type parameter </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T</text:span></text:span><text:span text:style-name="T1">, we are constraining the type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T</text:span></text:span><text:span text:style-name="T1"> to be a subtype of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Number</text:span></text:span><text:span text:style-name="T1">.</text:span></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">This means that when we create an instance of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Box</text:span></text:span><text:span text:style-name="T1"> class with a specific type argument, such as </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Box&lt;Integer&gt;</text:span></text:span><text:span text:style-name="T1">, the type parameter </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T</text:span></text:span><text:span text:style-name="T1"> will be replaced with </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Integer</text:span></text:span><text:span text:style-name="T1">, which is a subtype of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Number</text:span></text:span><text:span text:style-name="T1">. Therefore, we can store and retrieve </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Integer</text:span></text:span><text:span text:style-name="T1"> objects from the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Box</text:span></text:span><text:span text:style-name="T1"> object, as well as any other subtype of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Number</text:span></text:span><text:span text:style-name="T1"> that we choose to use.</text:span></text:p>
-   <text:p text:style-name="P8"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="0"><draw:image draw:mime-type="image/svg+xml">
+   <text:p text:style-name="P3">Doubt about Why can’t I pass int array in place of Integer array :</text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">Q. H</text:span>ere if i try to pass array of type int it fails why?, the main class code is, </text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P6">GenericMethod3WithArray gm3wa =new GenericMethod3WithArray(); </text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6">//int [] integers = {1,2,3,34,4,56,87,9,0}; </text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6">Integer [] integers = {1,2,3,34,4,56,87,9,0}; </text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6">gm3wa.printArray(integers); </text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P5">and the code for generics method is,</text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P6"><text:s/>public &lt;T&gt; void printArray(T[] arr) {</text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6"><text:s/>for(T a : arr) {</text:p>
+   <text:p text:style-name="P6"><text:s/>System.out.println(a); </text:p>
+   <text:p text:style-name="P6"><text:tab/>} </text:p>
+   <text:p text:style-name="P6">}</text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">The reason why passing an array of type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int</text:span></text:span><text:span text:style-name="T3"> fails is because the method signature expects an array of objects (</text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">T[] arr</text:span></text:span><text:span text:style-name="T3">). The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int</text:span></text:span><text:span text:style-name="T3"> type is a primitive type, and cannot be used as a type argument for a generic method. However, you can use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Integer</text:span></text:span><text:span text:style-name="T3"> class, which is a wrapper class for the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int</text:span></text:span><text:span text:style-name="T3"> primitive type, as shown in the example where you pass an array of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Integer</text:span></text:span><text:span text:style-name="T3"> objects.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">To pass an array of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int</text:span></text:span><text:span text:style-name="T3"> values to the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">printArray</text:span></text:span><text:span text:style-name="T3"> method, you can change the method signature to accept an array of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int</text:span></text:span><text:span text:style-name="T3"> values instead of an array of objects:</text:span></text:p>
+   <text:p text:style-name="P1">csharpCopy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">public void printArray(int[] arr) {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>for(int a : arr) {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>System.out.println(a);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">}</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Alternatively, you can use the wrapper class </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Integer</text:span></text:span><text:span text:style-name="T3"> and convert the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int</text:span></text:span><text:span text:style-name="T3"> values to </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Integer</text:span></text:span><text:span text:style-name="T3"> objects before passing them to the method:</text:span></text:p>
+   <text:p text:style-name="P1">scssCopy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int[] ints = {1, 2, 3};</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Integer[] integers = Arrays.stream(ints).boxed().toArray(Integer[]::new);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">gm3wa.printArray(integers);</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">This converts the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int</text:span></text:span><text:span text:style-name="T3"> array to a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Stream</text:span></text:span><text:span text:style-name="T3"> of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Integer</text:span></text:span><text:span text:style-name="T3"> objects, boxes them into an array using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">toArray</text:span></text:span><text:span text:style-name="T3"> method, and passes the resulting array of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Integer</text:span></text:span><text:span text:style-name="T3"> objects to the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">printArray</text:span></text:span><text:span text:style-name="T3"> method.</text:span></text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="0"><draw:image draw:mime-type="image/svg+xml">
       <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
        d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
       </office:binary-data>
@@ -336,41 +353,52 @@
     </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="1"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
      <svg:title>Rabindra Dahal</svg:title>
     </draw:frame></text:p>
-   <text:p text:style-name="P5">give me the use ful implementation of above bounded types class </text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">Sure! Here&apos;s an example of how you can use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Box</text:span></text:span><text:span text:style-name="T1"> class with bounded type parameters:</text:span></text:p>
+   <text:p text:style-name="P8">here can&apos;t i pass int array on T array parameter ?</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">No, you cannot pass an array of primitive type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int</text:span></text:span><text:span text:style-name="T3"> directly to a generic method with a type parameter </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">T</text:span></text:span><text:span text:style-name="T3">. This is because generic type parameters in Java must be reference types, and primitive types are not reference types.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">However, you can pass an array of the corresponding wrapper class </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Integer</text:span></text:span><text:span text:style-name="T3"> to the generic method, since </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Integer</text:span></text:span><text:span text:style-name="T3"> is a reference type. You can either create a new </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Integer</text:span></text:span><text:span text:style-name="T3"> array from the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int</text:span></text:span><text:span text:style-name="T3"> array using a loop, or use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Arrays</text:span></text:span><text:span text:style-name="T3"> utility class provided by Java to convert the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int</text:span></text:span><text:span text:style-name="T3"> array to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Integer</text:span></text:span><text:span text:style-name="T3"> array using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">boxed</text:span></text:span><text:span text:style-name="T3"> method.</text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Here&apos;s an example of how you can pass an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int</text:span></text:span><text:span text:style-name="T3"> array to the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">printArray</text:span></text:span><text:span text:style-name="T3"> method by converting it to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Integer</text:span></text:span><text:span text:style-name="T3"> array using a loop:</text:span></text:p>
+   <text:p text:style-name="P1">scssCopy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">public class GenericMethod3WithArray {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>public &lt;T&gt; void printArray(T[] arr) {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>for(T a : arr) {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="12"/>System.out.println(a);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>GenericMethod3WithArray gm3wa = new GenericMethod3WithArray();</text:span></text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>int[] ints = {1, 2, 3, 4, 5};</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>Integer[] integers = new Integer[ints.length];</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>for (int i = 0; i &lt; ints.length; i++) {</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="12"/>integers[i] = ints[i];</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P1"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="8"/>gm3wa.printArray(integers);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">}</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">In this example, the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">printArray</text:span></text:span><text:span text:style-name="T3"> method accepts an array of any type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">T</text:span></text:span><text:span text:style-name="T3">, and the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">main</text:span></text:span><text:span text:style-name="T3"> method creates an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int</text:span></text:span><text:span text:style-name="T3"> array </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">ints</text:span></text:span><text:span text:style-name="T3"> and converts it to an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Integer</text:span></text:span><text:span text:style-name="T3"> array </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">integers</text:span></text:span><text:span text:style-name="T3"> using a loop. The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">printArray</text:span></text:span><text:span text:style-name="T3"> method is then called with the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">integers</text:span></text:span><text:span text:style-name="T3"> array as its argument.</text:span></text:p>
+   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image3" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="2"><draw:image draw:mime-type="image/svg+xml">
+      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
+       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image4" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="3"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
+     <svg:title>Rabindra Dahal</svg:title>
+    </draw:frame></text:p>
+   <text:p text:style-name="P8">What does term reference type mean ??</text:p>
+   <text:p text:style-name="P8">In Java, a reference type is a data type that refers to an object in memory. It is a type that stores a memory address, which points to an object of that type. Reference types include classes, interfaces, arrays, and the wrapper classes for the primitive types.</text:p>
+   <text:p text:style-name="P8">When you create an object in Java, memory is allocated to store the object&apos;s state and behavior. The object is assigned a memory address, which is stored in a variable of the appropriate reference type. The variable then points to the object in memory, allowing you to manipulate the object&apos;s state and behavior through the variable.</text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">For example, if you create an object of class </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Person</text:span></text:span><text:span text:style-name="T3">, like this:</text:span></text:p>
    <text:p text:style-name="P1">javaCopy code</text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class BoundedTypeExample {</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// create a box that can hold integers</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>Box&lt;Integer&gt; integerBox = new Box&lt;&gt;();</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>integerBox.setData(10);</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>System.out.println(&quot;Integer value: &quot; + integerBox.getData());</text:span></text:span></text:p>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// create a box that can hold doubles</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>Box&lt;Double&gt; doubleBox = new Box&lt;&gt;();</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>doubleBox.setData(3.14159);</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>System.out.println(&quot;Double value: &quot; + doubleBox.getData());</text:span></text:span></text:p>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// this will result in a compile-time error because String is not a subclass of Number</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Box&lt;String&gt; stringBox = new Box&lt;&gt;();</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">class Box&lt;T extends Number&gt; {</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>private T data;</text:span></text:span></text:p>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public void setData(T data) {</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>this.data = data;</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public T getData() {</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>return data;</text:span></text:span></text:p>
-   <text:p text:style-name="P3"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
-   <text:p text:style-name="P2"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">In this example, we first create a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Box</text:span></text:span><text:span text:style-name="T1"> object that can hold </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Integer</text:span></text:span><text:span text:style-name="T1"> values by specifying </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Box&lt;Integer&gt;</text:span></text:span><text:span text:style-name="T1"> as the type argument. We set the value of the box to </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">10</text:span></text:span><text:span text:style-name="T1"> using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">setData()</text:span></text:span><text:span text:style-name="T1"> method and then retrieve the value using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">getData()</text:span></text:span><text:span text:style-name="T1"> method, which returns an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Integer</text:span></text:span><text:span text:style-name="T1">.</text:span></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">We then create another </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Box</text:span></text:span><text:span text:style-name="T1"> object that can hold </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Double</text:span></text:span><text:span text:style-name="T1"> values by specifying </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Box&lt;Double&gt;</text:span></text:span><text:span text:style-name="T1"> as the type argument. We set the value of the box to </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">3.14159</text:span></text:span><text:span text:style-name="T1"> using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">setData()</text:span></text:span><text:span text:style-name="T1"> method and then retrieve the value using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">getData()</text:span></text:span><text:span text:style-name="T1"> method, which returns a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Double</text:span></text:span><text:span text:style-name="T1">.</text:span></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">Finally, we try to create a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Box</text:span></text:span><text:span text:style-name="T1"> object that can hold </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1"> values, which should result in a compile-time error because </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1"> is not a subclass of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Number</text:span></text:span><text:span text:style-name="T1"> and does not satisfy the upper bound constraint for the type parameter </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T</text:span></text:span><text:span text:style-name="T1">.</text:span></text:p>
-   <text:p text:style-name="Standard"/>
+   <text:p text:style-name="Preformatted_20_Text"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Person person = new Person(&quot;John&quot;, 25);</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">person</text:span></text:span><text:span text:style-name="T3"> variable is of type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Person</text:span></text:span><text:span text:style-name="T3">, which is a reference type. It stores a memory address that points to the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Person</text:span></text:span><text:span text:style-name="T3"> object in memory. You can then use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">person</text:span></text:span><text:span text:style-name="T3"> variable to access and manipulate the state and behavior of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">Person</text:span></text:span><text:span text:style-name="T3"> object, like this:</text:span></text:p>
+   <text:p text:style-name="P1">scssCopy code</text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">System.out.println(person.getName()); <text:s/>// prints &quot;John&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">person.setAge(26);</text:span></text:span></text:p>
+   <text:p text:style-name="Preformatted_20_Text"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">System.out.println(person.getAge()); <text:s/>// prints &quot;26&quot;</text:span></text:span></text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">In contrast, primitive types in Java, such as </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">int</text:span></text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">float</text:span></text:span><text:span text:style-name="T3">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T3">boolean</text:span></text:span><text:span text:style-name="T3">, etc., are not reference types. They are simple values that are stored directly in memory, rather than as references to objects.</text:span></text:p>
+   <text:p text:style-name="P4"/>
   </office:text>
  </office:body>
 </office:document>

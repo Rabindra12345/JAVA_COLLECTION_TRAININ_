@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2023-04-19T09:07:05.529636775</dc:date><meta:editing-duration>PT3M31S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="12" meta:object-count="0" meta:page-count="5" meta:paragraph-count="128" meta:word-count="1198" meta:character-count="7349" meta:non-whitespace-character-count="5944"/></office:meta>
+ <office:meta><dc:date>2023-03-17T17:13:04.354522421</dc:date><meta:editing-duration>PT2M35S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="2" meta:object-count="0" meta:page-count="2" meta:paragraph-count="22" meta:word-count="520" meta:character-count="2971" meta:non-whitespace-character-count="2465"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">1018</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">29233</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">39123</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">16254</config:config-item>
@@ -14,11 +14,11 @@
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
      <config:config-item config:name="ViewLeft" config:type="long">11061</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">4678</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">40319</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">1018</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">29233</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">39121</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">17270</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">45485</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -88,7 +88,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1622555</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1669379</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -122,7 +122,7 @@
    <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RsidRoot" config:type="int">1579866</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1656581</config:config-item>
    <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -283,7 +283,10 @@
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false"/>
-   <style:text-properties officeooo:paragraph-rsid="0018c21b" loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+   <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:padding="0.0193in" fo:border="0.06pt solid #d9d9e3"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties loext:padding="0.0193in" loext:border="0.06pt solid #d9d9e3"/>
@@ -314,30 +317,14 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P9">what is this code tryna say , explain me with simple implementation code java, </text:p>
-   <text:p text:style-name="P9">List list = new ArrayList();</text:p>
-   <text:p text:style-name="P9"><text:s/>String name = (String) list.get(0);</text:p>
-   <text:p text:style-name="P2">The code is trying to retrieve an element from an ArrayList and cast it to a String type. Here&apos;s a simple implementation in Java:</text:p>
-   <text:p text:style-name="P1">javaCopy code</text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.util.ArrayList;</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.util.List;</text:span></text:span></text:p>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class Main {</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Create an empty ArrayList</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>List list = new ArrayList();</text:span></text:span></text:p>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Add a String element to the ArrayList</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>list.add(&quot;Hello World!&quot;);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Retrieve the first element from the ArrayList and cast it to a String type</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>String name = (String) list.get(0);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>// Print the value of the name variable</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>System.out.println(name);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P3">in generics method can we use like static &lt;T&gt; double calculate(); ?</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">Yes, you can declare a generic method with the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">static</text:span></text:span><text:span text:style-name="T1"> keyword in Java. Here&apos;s an example of a generic method </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">calculate</text:span></text:span><text:span text:style-name="T1"> that returns a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">double</text:span></text:span><text:span text:style-name="T1"> and takes no arguments:</text:span></text:p>
+   <text:p text:style-name="P1">csharpCopy code</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public static &lt;T&gt; double calculate() {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="3"/>// implementation</text:span></text:span></text:p>
    <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">In this implementation, we create an empty ArrayList using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">List</text:span></text:span><text:span text:style-name="T1"> and </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">ArrayList</text:span></text:span><text:span text:style-name="T1"> interfaces from the Java Collections Framework. We add a String element to the ArrayList using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">add()</text:span></text:span><text:span text:style-name="T1"> method. Then, we retrieve the first element from the ArrayList using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">get()</text:span></text:span><text:span text:style-name="T1"> method and cast it to a String type using </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">(String)</text:span></text:span><text:span text:style-name="T1">. Finally, we print the value of the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">name</text:span></text:span><text:span text:style-name="T1"> variable using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">println()</text:span></text:span><text:span text:style-name="T1"> method. The output of the code should be </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">&quot;Hello World!&quot;</text:span></text:span><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">Note that the type parameter </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T</text:span></text:span><text:span text:style-name="T1"> is not used in the method body, but it is still necessary to include it in the method signature. This allows the method to work with any type, not just a specific one.</text:span></text:p>
+   <text:p text:style-name="P2">However, since the method doesn&apos;t take any arguments, it may not be very useful in practice. Typically, generic methods are used to work with generic types, and they take one or more arguments of those types.</text:p>
    <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="0"><draw:image draw:mime-type="image/svg+xml">
       <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
        d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
@@ -346,153 +333,19 @@
     </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="1"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
      <svg:title>Rabindra Dahal</svg:title>
     </draw:frame></text:p>
-   <text:p text:style-name="P4">while adding values to list, does it add whole string on a single element only ??</text:p>
-   <text:p text:style-name="P2">No, when you add a String to a List in Java, it will add the whole String as a single element to the List. For example, if you have the following code:</text:p>
-   <text:p text:style-name="P1">javaCopy code</text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.util.ArrayList;</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.util.List;</text:span></text:span></text:p>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class Main {</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>List&lt;String&gt; myList = new ArrayList&lt;String&gt;();</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>myList.add(&quot;Hello&quot;);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>myList.add(&quot;World&quot;);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>System.out.println(myList);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
+   <text:p text:style-name="P4">is this &lt;T&gt; double calculate(T num1, T num2) okay ?</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">No, the generic method signature </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">&lt;T&gt; double calculate(T num1, T num2)</text:span></text:span><text:span text:style-name="T1"> is not valid for returning the sum of two numbers because it doesn&apos;t guarantee that the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T</text:span></text:span><text:span text:style-name="T1"> type can be used with arithmetic operators like </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">+</text:span></text:span><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">To perform arithmetic operations on the generic type, you need to ensure that the type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T</text:span></text:span><text:span text:style-name="T1"> extends a class or implements an interface that defines the necessary arithmetic methods. For example, if you want to add two numbers of type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T</text:span></text:span><text:span text:style-name="T1">, you can declare the method like this:</text:span></text:p>
+   <text:p text:style-name="P1">typescriptCopy code</text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public static &lt;T extends Number&gt; double calculate(T num1, T num2) {</text:span></text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>return num1.doubleValue() + num2.doubleValue();</text:span></text:span></text:p>
    <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
-   <text:p text:style-name="P2">The output will be:</text:p>
-   <text:p text:style-name="P1">csharpCopy code</text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">[Hello, World]</text:span></text:span></text:p>
-   <text:p text:style-name="P2">As you can see, the entire String &quot;Hello&quot; and the entire String &quot;World&quot; were added as separate elements to the List, and they are displayed as separate elements when the List is printed. If you want to add individual characters of a String to a List, you can convert the String to a char array and then add each character to the List separately.</text:p>
-   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image3" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="2"><draw:image draw:mime-type="image/svg+xml">
-      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
-       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
-      </office:binary-data>
-     </draw:image>
-    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image4" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="3"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-     <svg:title>Rabindra Dahal</svg:title>
-    </draw:frame></text:p>
-   <text:p text:style-name="P4">but if we add String on only one add statement then no matter how long the word is does it take it to a single element ?</text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">Yes, if you add a single String to a List using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">add()</text:span></text:span><text:span text:style-name="T1"> method, the entire String will be added as a single element to the List, no matter how long the String is. For example, consider the following code:</text:span></text:p>
-   <text:p text:style-name="P1">javaCopy code</text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.util.ArrayList;</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.util.List;</text:span></text:span></text:p>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class Main {</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>List&lt;String&gt; myList = new ArrayList&lt;String&gt;();</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>myList.add(&quot;Hello World&quot;);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>System.out.println(myList);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
-   <text:p text:style-name="P2">The output will be:</text:p>
-   <text:p text:style-name="P1">csharpCopy code</text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">[Hello World]</text:span></text:span></text:p>
-   <text:p text:style-name="P2">As you can see, the entire String &quot;Hello World&quot; was added as a single element to the List, and it is displayed as a single element when the List is printed.</text:p>
-   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image5" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="4"><draw:image draw:mime-type="image/svg+xml">
-      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
-       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
-      </office:binary-data>
-     </draw:image>
-    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image6" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="5"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-     <svg:title>Rabindra Dahal</svg:title>
-    </draw:frame></text:p>
-   <text:p text:style-name="P4">then does it mean , to add element on different index of list , we should add it using seperate add <text:soft-page-break/>method for each element to be added on the list ?</text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">Yes, that&apos;s correct. To add elements to different positions in a List, you can use the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">add()</text:span></text:span><text:span text:style-name="T1"> method with the index parameter. For example, consider the following code:</text:span></text:p>
-   <text:p text:style-name="P1">javaCopy code</text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.util.ArrayList;</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.util.List;</text:span></text:span></text:p>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class Main {</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>List&lt;String&gt; myList = new ArrayList&lt;String&gt;();</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>myList.add(&quot;Hello&quot;);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>myList.add(&quot;World&quot;);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>myList.add(1, &quot;Java&quot;);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>System.out.println(myList);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
-   <text:p text:style-name="P2">The output will be:</text:p>
-   <text:p text:style-name="P1">csharpCopy code</text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">[Hello, Java, World]</text:span></text:span></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">As you can see, the String &quot;Java&quot; was added at index 1 using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">add()</text:span></text:span><text:span text:style-name="T1"> method with the index parameter, and the existing elements were shifted to the right to make space for the new element. If you want to add multiple elements to different positions in the List, you would need to call the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">add()</text:span></text:span><text:span text:style-name="T1"> method multiple times, each time specifying the index and the element to be added.</text:span></text:p>
-   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image7" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="6"><draw:image draw:mime-type="image/svg+xml">
-      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
-       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
-      </office:binary-data>
-     </draw:image>
-    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image8" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="7"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-     <svg:title>Rabindra Dahal</svg:title>
-    </draw:frame></text:p>
-   <text:p text:style-name="P4">and while adding without specifying the index , does it add according to the statement which ever comes first ??</text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">Yes, when you add elements to a List using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">add()</text:span></text:span><text:span text:style-name="T1"> method without specifying the index, the elements will be added to the end of the List in the order that they appear in the code. For example, consider the following code:</text:span></text:p>
-   <text:p text:style-name="P1">javaCopy code</text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.util.ArrayList;</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.util.List;</text:span></text:span></text:p>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class Main {</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>List&lt;String&gt; myList = new ArrayList&lt;String&gt;();</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>myList.add(&quot;Hello&quot;);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>myList.add(&quot;Java&quot;);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>myList.add(&quot;World&quot;);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>System.out.println(myList);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:soft-page-break/><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
-   <text:p text:style-name="P2">The output will be:</text:p>
-   <text:p text:style-name="P1">csharpCopy code</text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">[Hello, Java, World]</text:span></text:span></text:p>
-   <text:p text:style-name="P2">As you can see, the elements &quot;Hello&quot;, &quot;Java&quot;, and &quot;World&quot; were added to the List in the order that they appear in the code, and they are displayed in that same order when the List is printed.</text:p>
-   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image9" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="8"><draw:image draw:mime-type="image/svg+xml">
-      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
-       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
-      </office:binary-data>
-     </draw:image>
-    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image10" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="9"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-     <svg:title>Rabindra Dahal</svg:title>
-    </draw:frame></text:p>
-   <text:p text:style-name="P4">what happends if we don&apos;t cast get values to String in above code ?</text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">If you don&apos;t cast the value returned by the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">get()</text:span></text:span><text:span text:style-name="T1"> method to a String in the above code, the compiler will produce a warning about an unchecked cast, because the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">get()</text:span></text:span><text:span text:style-name="T1"> method returns an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Object</text:span></text:span><text:span text:style-name="T1">, not necessarily a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1">.</text:span></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">In other words, the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">get()</text:span></text:span><text:span text:style-name="T1"> method returns a reference to an object, and it&apos;s possible for that object to be of any class, not just a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1">. If you attempt to assign the result of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">get()</text:span></text:span><text:span text:style-name="T1"> to a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1"> variable without casting, the compiler can&apos;t verify that the object is actually a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1"> at compile time, and so it issues a warning.</text:span></text:p>
-   <text:p text:style-name="P2">Here&apos;s an example of the code with the unchecked cast warning:</text:p>
-   <text:p text:style-name="P1">javaCopy code</text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.util.ArrayList;</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">import java.util.List;</text:span></text:span></text:p>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">public class Main {</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>public static void main(String[] args) {</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>List myList = new ArrayList();</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>myList.add(&quot;Hello World&quot;);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>Object obj = myList.get(0); <text:s/>// returns an Object</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>String name = obj; <text:s/>// unchecked cast warning</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>System.out.println(name);</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="4"/>}</text:span></text:span></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">}</text:span></text:span></text:p>
-   <text:p text:style-name="P2">When you compile this code, the compiler will produce a warning like this:</text:p>
-   <text:p text:style-name="P1">javascriptCopy code</text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Main.java:8: warning: [unchecked] unchecked cast</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="8"/>String name = obj;</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="22"/>^</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="2"/>required: String</text:span></text:span></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1"><text:s text:c="2"/>found: <text:s text:c="3"/>Object</text:span></text:span></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">1 warning</text:span></text:span></text:p>
-   <text:p text:style-name="P7"><text:soft-page-break/><text:span text:style-name="T1">In this case, the code will still run correctly because we know that the first element in the List is actually a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1">, but in general, it&apos;s a good practice to always check the type of the object </text:span><text:span text:style-name="T1">returned by </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">get()</text:span></text:span><text:span text:style-name="T1"> and cast it to the appropriate type.</text:span></text:p>
-   <text:p text:style-name="P8"><draw:frame draw:style-name="fr1" draw:name="Image11" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="10"><draw:image draw:mime-type="image/svg+xml">
-      <office:binary-data>PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZlcnNpb249JzEuMScg
-       d2lkdGg9JzMwJyBoZWlnaHQ9JzMwJy8+
-      </office:binary-data>
-     </draw:image>
-    </draw:frame><draw:frame draw:style-name="fr1" draw:name="Image12" text:anchor-type="as-char" svg:width="0.7874in" svg:height="0.3937in" draw:z-index="11"><draw:image xlink:href="https://chat.openai.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FAGNmyxbO7Kw9cJBGwrXbw7sBOKXGCU_U_3259twrDVfBrQ%3Ds96-c&amp;w=64&amp;q=75" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"/>
-     <svg:title>Rabindra Dahal</svg:title>
-    </draw:frame></text:p>
-   <text:p text:style-name="P4">What is E here , List&lt;E&gt;</text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">In the declaration </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">List&lt;E&gt;</text:span></text:span><text:span text:style-name="T1">, </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">E</text:span></text:span><text:span text:style-name="T1"> is a type parameter that stands for the type of elements that the List can hold.</text:span></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">List</text:span></text:span><text:span text:style-name="T1"> interface is a generic interface, which means that it can be parameterized with a type. The type parameter </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">E</text:span></text:span><text:span text:style-name="T1"> is used to specify the type of objects that can be stored in the List. When you create an instance of a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">List</text:span></text:span><text:span text:style-name="T1"> implementation such as </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">ArrayList</text:span></text:span><text:span text:style-name="T1">, you need to specify the type of elements that the List will hold.</text:span></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">For example, if you want to create an </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">ArrayList</text:span></text:span><text:span text:style-name="T1"> that can hold </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1"> objects, you can declare it like this:</text:span></text:p>
-   <text:p text:style-name="P1">javaCopy code</text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">List&lt;String&gt; myList = new ArrayList&lt;String&gt;();</text:span></text:span></text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T1">Here, the type parameter </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">E</text:span></text:span><text:span text:style-name="T1"> is replaced with the type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1">, which means that the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">ArrayList</text:span></text:span><text:span text:style-name="T1"> can only hold </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">String</text:span></text:span><text:span text:style-name="T1"> objects.</text:span></text:p>
-   <text:p text:style-name="P2">By using generic types, Java allows you to write code that is more generic and reusable. You can write methods and classes that can work with any type of object, as long as that object type satisfies certain constraints, which are specified using type parameters.</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">In this case, the type parameter </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T</text:span></text:span><text:span text:style-name="T1"> is bounded by the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Number</text:span></text:span><text:span text:style-name="T1"> class using the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">extends</text:span></text:span><text:span text:style-name="T1"> keyword. This guarantees that the type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T</text:span></text:span><text:span text:style-name="T1"> is a subtype of </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">Number</text:span></text:span><text:span text:style-name="T1">, which provides the necessary arithmetic methods. The </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">doubleValue()</text:span></text:span><text:span text:style-name="T1"> method is used to convert the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">T</text:span></text:span><text:span text:style-name="T1"> type to a </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">double</text:span></text:span><text:span text:style-name="T1"> so that the addition operation can be performed.</text:span></text:p>
+   <text:p text:style-name="P3">in this method whats the purpose of method type double if we use generics we should have return type as generics Parameter nah ?, public static &lt;T&gt; double calculate() { // implementation }</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">You are correct that if we are using generics in a method, the return type of the method should ideally be a type parameter </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">&lt;T&gt;</text:span></text:span><text:span text:style-name="T1">, which can be determined based on the input arguments or the implementation of the method.</text:span></text:p>
+   <text:p text:style-name="P7"><text:soft-page-break/><text:span text:style-name="T1">In the method signature that you provided, the return type is specified as </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">double</text:span></text:span><text:span text:style-name="T1">, which means that the method will always return a value of type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">double</text:span></text:span><text:span text:style-name="T1">, regardless of the type parameter </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">&lt;T&gt;</text:span></text:span><text:span text:style-name="T1">.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">This may be appropriate if the method always returns a numeric value and the precision provided by the </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">double</text:span></text:span><text:span text:style-name="T1"> type is sufficient for the application. However, if the method needs to return a value of a different type based on the input arguments or the implementation, then specifying the return type as </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">&lt;T&gt;</text:span></text:span><text:span text:style-name="T1"> would be more appropriate.</text:span></text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">In summary, the purpose of the method type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">double</text:span></text:span><text:span text:style-name="T1"> in the method signature you provided is to indicate that the method always returns a numeric value of type </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">double</text:span></text:span><text:span text:style-name="T1">. However, it would be more appropriate to specify the return type as </text:span><text:span text:style-name="Source_20_Text"><text:span text:style-name="T1">&lt;T&gt;</text:span></text:span><text:span text:style-name="T1"> if the method needs to return a value of a different type based on the input arguments or the implementation.</text:span></text:p>
    <text:p text:style-name="Standard"/>
   </office:text>
  </office:body>

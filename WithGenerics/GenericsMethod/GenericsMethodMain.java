@@ -10,7 +10,7 @@ public class GenericsMethodMain {
 		
 //		System.out.println(showItem());
 		
-		System.out.println("Item is returned:"+gm.showItem(45.6));
+		System.out.println("Item is returned:"+gm.showItem(46));
 	}
 	
 	

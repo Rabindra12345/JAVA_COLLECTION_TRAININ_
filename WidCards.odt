@@ -1,0 +1,32 @@
+﻿Integer is a subtype of a Number 
+
+
+ArrayList<E> is a subtype of List<E>
+
+List<E> is the subtype of Collection<E>
+
+But, List<Integer> is not a subtype of List<Number> despite the fact that integer is a subtype of a number .
+
+
+Solution is to use wildcard.
+
+NOTE:  Suppose we have a method as:
+
+public void printVal(Collection<Object> list){
+
+	for( Object o : list){
+		Sysout(o);
+	}
+}
+
+And we may think that if we use collection then we can pass anything like List of integer, list of double, list of floating point numbers and it’s going to work fine since List<E> is the subtype of Collection<E> 
+
+Unfortunately , it is not like that, we can’t use Collection of object for List<Integer>, it is not going to work fine .
+
+*** SUPER TYPE OF ALL KIND OF COLLECTION IS WILD CARD and ? Is the wildcard ***
+
+UPPER BOUNDED WILDCARD :
+
+
+
+
